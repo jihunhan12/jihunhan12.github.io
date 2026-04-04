@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "jihunhan12/KAIST-CUVIC-lab.github.io",
+    "data-repo": "jihunhan12/jihunhan12.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
