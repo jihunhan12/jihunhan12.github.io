@@ -2,7 +2,7 @@
 layout: page
 title: Home
 permalink: /
-subtitle: **C**ooperative **U**ser-centric **V**ehicle-infrastructure **I**ntelligence and **C**ontrol 
+subtitle: Cooperative User-centric Vehicle-infrastructure Intelligence and Control 
 
 profile:
   align: right
