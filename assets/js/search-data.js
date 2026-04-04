@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "nav-join-us",
-          title: "Join us",
-          description: "Join us",
+          title: "Join Us",
+          description: "Join Us",
           section: "Navigation",
           handler: () => {
             window.location.href = "/join_us/";
