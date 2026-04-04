@@ -1,8 +1,8 @@
 ---
-layout: about
+layout: page
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: **C**ooperative **U**ser-centric **V**ehicle-infrastructure **I**ntelligence and **C**ontrol 
 
 profile:
   align: right
