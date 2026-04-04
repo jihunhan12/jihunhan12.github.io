@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Home
 permalink: /
 subtitle: Cooperative User-centric Vehicle-infrastructure Intelligence and Control 
