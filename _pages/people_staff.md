@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/staff/
-title: Staffs
-description: Staffs (Postdocs, Reseachers, Administrative Assistents, etc.) of the lab
+title: Current Staffs
+description: Current postdocs, reseachers, administrative assistents, etc. of the lab
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -14,11 +14,9 @@ profiles:
     content: biography/example_postdoc.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      `email@kaist.ac.kr`
-    
-      `xxx-xxx-xxxx`
-    
-      N7-X XXXX
+      <p>E-mail: XXXX@kaist.ac.kr</p>
+      <p>Phone: XXX-XXX-XXXX</p>
+      <p>Location: N7-X XXXX</p>
       
   - section: researcher # prof,admin,researcher,postdoc,graduate,undergraduate,alumni
     align: right
@@ -26,8 +24,9 @@ profiles:
     content: biography/example_phd.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>[E-mail], [Phone]</p>
-      <p>N7-X XXXX</p>      
+      <p>E-mail: XXXX@kaist.ac.kr</p>
+      <p>Phone: XXX-XXX-XXXX</p>
+      <p>Location: N7-X XXXX</p>
 
   - section: admin # prof,admin,researcher,postdoc,graduate,undergraduate,alumni
     align: right
@@ -35,7 +34,8 @@ profiles:
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>[E-mail], [Phone]</p>
-      <p>N7-X XXXX</p>      
+      <p>E-mail: XXXX@kaist.ac.kr</p>
+      <p>Phone: XXX-XXX-XXXX</p>
+      <p>Location: N7-X XXXX</p>
 
 ---
