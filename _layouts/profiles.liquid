@@ -25,7 +25,7 @@ layout: page
           {% endif %}
 
           {% for profile in page.profiles %}
-            {% if profile.section == sec %}
+            #{% if profile.section == sec %}
               <hr>
               <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
                 {% if profile.image %}
@@ -51,7 +51,7 @@ layout: page
                   {{ content }}
                 {% endif %}
               </div>
-            {% endif %}
+            #{% endif %}
           {% endfor %}
         {% endif %}
       {% endfor %}
