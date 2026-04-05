@@ -4,32 +4,56 @@ layout: page
 <div class="post">
   <article>
     {% if page.profiles %}
-      {% for profile in page.profiles %}
-        <hr>
-        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
-          {% if profile.image %}
-            {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-            {% if profile.image_circular %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-            {% else %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-            {% endif %}
-            {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+      
+      {% assign sections = "postdoc,phd,master,intern" | split: "," %}
+      {% for sec in sections %}    
+        {% assign has_profiles_in_section = false %}
+        {% for profile in page.profiles %}
+          {% if profile.section == sec %}
+            {% assign has_profiles_in_section = true %}
           {% endif %}
-          {% if profile.more_info %}
-            <div class="more-info">{{ profile.more_info }}</div>
+        {% endfor %}
+        {% if has_profiles_in_section %}
+          {% if sec == "postdoc" %}
+            <h2>Researchers and Postdocs</h2>
+          {% elsif sec == "phd" %}
+            <h2>Ph.D. Students</h2>
+          {% elsif sec == "master" %}
+            <h2>Master Students</h2>
+          {% elsif sec == "intern" %}
+            <h2>Interns and Visiting Students</h2>
           {% endif %}
-        </div>
 
-        <div class="clearfix">
-          {% if profile.content %}
-            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
-            {{ profile_content | markdownify }}
-          {% else %}
-            {{ content }}
-          {% endif %}
-        </div>
+          {% for profile in page.profiles %}
+            {% if profile.section == sec %}
+              <hr>
+              <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+                {% if profile.image %}
+                  {% assign profile_image_path = profile.image | prepend: 'assets/img/labmember/' %}
+                  {% if profile.image_circular %}
+                    {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+                  {% else %}
+                    {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+                  {% endif %}
+                  {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+                  {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+                {% endif %}
+                {% if profile.more_info %}
+                  <div class="more-info">{{ profile.more_info }}</div>
+                {% endif %}
+              </div>
+      
+              <div class="clearfix">
+                {% if profile.content %}
+                  {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+                  {{ profile_content | markdownify }}
+                {% else %}
+                  {{ content }}
+                {% endif %}
+              </div>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
       {% endfor %}
     {% endif %}
   </article>
