@@ -10,7 +10,7 @@ profiles:
   - section: alumni
     align: right
     image: member1.png
-    content: example.md
+    content: biography/example_alumni.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
