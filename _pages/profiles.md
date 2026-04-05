@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-## People
-
 Please explore the members of the lab below.
 
 - [Professor](/people/professor/)
