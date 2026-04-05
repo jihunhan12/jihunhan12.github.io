@@ -11,7 +11,7 @@ profiles:
   - section: postdoc # prof,admin,researcher,postdoc,graduate,undergraduate,alumni
     align: right
     image: postdoc1.png
-    content: /biography/example_postdoc.md
+    content: biography/example_postdoc.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>`email@kaist.ac.kr`, 'xxx-xxx-xxxx`</p>
