@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/staff/
-title: Current Staffs
-description: Current postdocs, reseachers, administrative assistents, etc. of the lab
+title: Researchers & Staff
+description: Postdocs, reseachers, and administrative support
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
