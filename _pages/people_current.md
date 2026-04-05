@@ -10,7 +10,7 @@ profiles:
   - section: postdoc
     align: right
     image: postdoc1.png
-    content: about_einstein.md
+    content: assets/biography/example_postdoc.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
@@ -20,7 +20,7 @@ profiles:
   - section: phd
     align: right
     image: phd1.png
-    content: about_einstein.md
+    content: assets/biography/example_phd.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
@@ -30,7 +30,7 @@ profiles:
   - section: master
     align: right
     image: master1.png
-    content: about_einstein.md
+    content: assets/biography/example_master.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
