@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-news",
-          title: "news",
-          description: "News",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/news/";
-          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Course materials, schedules, and resources for classes taught.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-news",
+          title: "News",
+          description: "News",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
           },
         },{id: "nav-posts",
           title: "Posts",
