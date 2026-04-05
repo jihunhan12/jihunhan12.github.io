@@ -41,6 +41,12 @@ layout: page
                 {% if profile.more_info %}
                   <div class="more-info">{{ profile.more_info }}</div>
                 {% endif %}
+                {% if profile.content %}
+                  {% capture profile_content %}{% include {{ profile.content }} %}{% endcapture %}
+                  {{ profile_content | markdownify }}
+                {% else %}
+                  {{ content }}
+                {% endif %}      
               </div>
       
               <div class="clearfix">
