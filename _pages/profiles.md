@@ -10,5 +10,6 @@ nav_order: 2
 Please explore the members of the lab below.
 
 - [Professor](/people/professor/)
-- [Current Members](/people/current/)
+- [Current Staffs](/people/staff/)
+- [Current Students](/people/current/)
 - [Alumni](/people/alumni/)
