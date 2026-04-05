@@ -5,7 +5,7 @@ layout: page
   <article>
     {% if page.profiles %}
       
-      {% assign sections = "postdoc,phd,master,intern" | split: "," %}
+      {% assign sections = "prof,postdoc,phd,master,intern,alumni" | split: "," %}
       {% for sec in sections %}    
         {% assign has_profiles_in_section = false %}
         {% for profile in page.profiles %}
@@ -25,7 +25,7 @@ layout: page
           {% endif %}
 
           {% for profile in page.profiles %}
-            #{% if profile.section == sec %}
+            {% if profile.section == sec %}
               <hr>
               <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
                 {% if profile.image %}
@@ -51,7 +51,7 @@ layout: page
                   {{ content }}
                 {% endif %}
               </div>
-            #{% endif %}
+            {% endif %}
           {% endfor %}
         {% endif %}
       {% endfor %}
