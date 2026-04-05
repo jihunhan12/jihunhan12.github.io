@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/student/
-title: Current Students
-description: Current graduate and undergraduate students of the lab
+title: Students
+description: Graduate and undergraduate students
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
