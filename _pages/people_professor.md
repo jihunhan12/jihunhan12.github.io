@@ -10,7 +10,7 @@ profiles:
   - section: prof
     align: right
     image: jihun_han.png
-    content: about_einstein.md
+    content: 
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
