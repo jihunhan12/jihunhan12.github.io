@@ -432,7 +432,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-project-title",
           title: 'Project Title',
-          description: "Project period and sponsors",
+          description: "Project period and sponsor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
