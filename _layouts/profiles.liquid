@@ -5,7 +5,7 @@ layout: page
   <article>
     {% if page.profiles %}
       
-      {% assign sections = "prof,staff,researcher,postdoc,phd,master,intern,alumni" | split: "," %}
+      {% assign sections = "prof,admin,researcher,postdoc,graduate,undergraduate,alumni" | split: "," %}
       {% for sec in sections %}    
         {% assign has_profiles_in_section = false %}
         {% for profile in page.profiles %}
@@ -16,17 +16,15 @@ layout: page
         {% if has_profiles_in_section %}
           {% if sec == "prof" %}
             <h2>Professors</h2>
-          {% elsif sec == "staff" %}
+          {% elsif sec == "researcher" %}
             <h2>Researchers</h2>
-          {% elsif sec == "staff" %}
-            <h2>Staffs</h2>
+          {% elsif sec == "admin" %}
+            <h2>Administrative Staffs</h2>
           {% elsif sec == "postdoc" %}
             <h2>Postdocs</h2>
-          {% elsif sec == "phd" %}
-            <h2>Ph.D. Students</h2>
-          {% elsif sec == "master" %}
-            <h2>Master Students</h2>
-          {% elsif sec == "intern" %}
+          {% elsif sec == "graduate" %}
+            <h2>Graduate Students</h2>
+          {% elsif sec == "undergraduate" %}
             <h2>Undergraduate Students</h2>
           {% endif %}
 
