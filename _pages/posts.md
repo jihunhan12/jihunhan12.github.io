@@ -3,7 +3,7 @@ layout: page
 title: Posts
 permalink: /posts/
 description: Posts
-nav: true
+nav: false
 nav_order: 7
 ---
 
