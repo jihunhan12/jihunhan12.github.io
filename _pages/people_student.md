@@ -11,7 +11,7 @@ profiles:
   - section: graduate
     align: right
     image: phd1.png
-    content: example.md
+    content: biography/example_phd.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ph.D. Student</p>
@@ -20,7 +20,7 @@ profiles:
   - section: graduate
     align: right
     image: master1.png
-    content: example.md
+    content: biography/example_master.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Master Student</p>
@@ -29,7 +29,7 @@ profiles:
   - section: undergraduate
     align: right
     image: undergraduate1.png
-    content: example.md
+    content: biography/example_intern.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Intern</p>
