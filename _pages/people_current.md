@@ -8,7 +8,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - section: postdoc
-  - align: right
+    align: right
     image: postdoc1.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
@@ -18,7 +18,7 @@ profiles:
       <p>Your City, State 12345</p>
 
   - section: phd
-  - align: right
+    align: right
     image: phd1.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
@@ -28,7 +28,7 @@ profiles:
       <p>Your City, State 12345</p>
 
   - section: master
-  - align: right
+    align: right
     image: master1.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
@@ -38,7 +38,7 @@ profiles:
       <p>Your City, State 12345</p>
 
   - section: intern
-  - align: right
+    align: right
     image: intern1.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
