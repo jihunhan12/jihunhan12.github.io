@@ -14,8 +14,11 @@ profiles:
     content: biography/example_postdoc.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>`email@kaist.ac.kr`, 'xxx-xxx-xxxx`</p>
-      <p>N7-X XXXX</p>      
+      `email@kaist.ac.kr`
+    
+      `xxx-xxx-xxxx`
+    
+      N7-X XXXX
       
   - section: researcher # prof,admin,researcher,postdoc,graduate,undergraduate,alumni
     align: right
