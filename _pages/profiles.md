@@ -11,5 +11,5 @@ Please explore the members of the lab below.
 
 - [Professor](/people/professor/)
 - [Current Staffs](/people/staff/)
-- [Current Students](/people/current/)
+- [Current Students](/people/student/)
 - [Alumni](/people/alumni/)
