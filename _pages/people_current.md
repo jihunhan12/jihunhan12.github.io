@@ -7,44 +7,32 @@ description: Current members of the lab
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - section: postdoc
-    align: right
-    image: postdoc1.png
-    content: example.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-
-  - section: phd
+  
+  - section: graduate
     align: right
     image: phd1.png
     content: example.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Ph.D. Student</p>
+      <p>123 your address street</p>      
 
-  - section: master
+  - section: graduate
     align: right
     image: master1.png
     content: example.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Master Student</p>
+      <p>123 your address street</p>      
 
-  - section: intern
+  - section: undergraduate
     align: right
-    image: intern1.png
+    image: undergraduate1.png
     content: example.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Intern</p>
+      <p>123 your address street</p>      
 
 ---
