@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /research/projects/
-description: Research projects of the lab
+description: Ongoing and completed research projects
 nav: false
 display_categories: [ongoing, completed]
 horizontal: false
