@@ -2,14 +2,14 @@
 layout: page
 permalink: /people/
 title: People
-description: Members of the CUVIC lab
+description: Lab Members
 nav: true
 nav_order: 2
 ---
 
-Please explore the members of the lab below.
+Meet the interdisciplinary team driving the next generation of smart mobility.
 
-- [Professor](/people/professor/)
-- [Current Staffs](/people/staff/)
-- [Current Students](/people/student/)
+- [Principal Investigator](/people/professor/)
+- [Researcher & Staff](/people/staff/)
+- [Students](/people/student/)
 - [Alumni](/people/alumni/)
