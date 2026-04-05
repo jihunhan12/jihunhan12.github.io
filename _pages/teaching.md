@@ -2,13 +2,15 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses at KAIST
 nav: true
 nav_order: 5
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+Fostering the next generation of engineers! 
+
+A collection of course materials for courses, schedules, and academic resources. 
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
