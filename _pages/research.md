@@ -2,12 +2,12 @@
 layout: page
 title: Research
 permalink: /research/
-description: Research overview and projects of the lab
+description: Research Overview & Projects
 nav: true
 nav_order: 1
 ---
 
-Please explore research overview and projects of the lab below.
+Exploring our core research themes and innovative projects.
 
 - [Overview](/research/overview/)
 - [Projects](/research/projects/) 
