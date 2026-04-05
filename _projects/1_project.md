@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Title
-description: Project period and sponsors
+description: Project period and sponsor
 img: assets/img/12.jpg
 importance: 1
 category: work
