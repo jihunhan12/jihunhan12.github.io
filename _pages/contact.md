@@ -2,9 +2,13 @@
 layout: page
 permalink: /contact/
 title: Contact
-description: Course materials, schedules, and resources for classes taught.
+description: Join Us and Ask Us
 nav: true
 nav_order: 9
 ---
 
-This page shows contact
+Start your journey with CUVIC!
+
+Information for prospective students
+
+General inquiries
