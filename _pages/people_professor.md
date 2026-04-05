@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/professor/
 title: Professor
-description: Professor of the lab
+description: Prof. Jihun Han
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
