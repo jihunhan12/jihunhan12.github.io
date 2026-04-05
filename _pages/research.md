@@ -9,5 +9,5 @@ nav_order: 1
 
 Please explore research overview and projects of the lab below.
 
-- [Overview](/research/orverview/)
+- [Overview](/research/overview/)
 - [Projects](/research/projects/) 
