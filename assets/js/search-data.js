@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Courses at KAIST",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
