@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-contact",
           title: "Contact",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Join Us and Ask Us",
           section: "Navigation",
           handler: () => {
             window.location.href = "/contact/";
