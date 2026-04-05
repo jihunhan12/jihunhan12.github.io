@@ -20,7 +20,7 @@ profiles:
   - section: researcher # prof,admin,researcher,postdoc,graduate,undergraduate,alumni
     align: right
     image: researcher1.png
-    content: example.md
+    content: biography/example_phd.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>[E-mail], [Phone]</p>
@@ -29,7 +29,7 @@ profiles:
   - section: admin # prof,admin,researcher,postdoc,graduate,undergraduate,alumni
     align: right
     image: admin1.png
-    content: example.md
+    content: 
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>[E-mail], [Phone]</p>
