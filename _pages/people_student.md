@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/current/
-title: Current Members
-description: Current members of the lab
+permalink: /people/student/
+title: Current Students
+description: Current students (graduate and undergraduate students) of the lab
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
