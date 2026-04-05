@@ -5,33 +5,34 @@ title: Staffs
 description: Staffs (Postdocs, Reseachers, Administrative Assistents, etc.) of the lab
 
 profiles:
-  - section: postdoc
-  align: right
-  image: postdoc1.png
-  content: example.md
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-    
-  - section: researcher
-  align: right
-  image: researcher1.png
-  content: about_einstein.md
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
   
-  - section: admin
+  - section: postdoc
     align: right
-    image: admin1.png
-    content: about_einstein.md
+    image: postdoc1.png
+    content: example.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Ph.D. Student</p>
+      <p>123 your address street</p>      
+
+  - section: researcher
+    align: right
+    image: master1.png
+    content: example.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Master Student</p>
+      <p>123 your address street</p>      
+
+  - section: admin
+    align: right
+    image: undergraduate1.png
+    content: example.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Intern</p>
+      <p>123 your address street</p>      
+
 ---
