@@ -1,4 +1,9 @@
-#### Education
+
+**Name**
+
+---
+
+**Education**
 
 <ul>
     <li>M.S. in [Department Name], [Previous University] (20XX – 20XX), Advisor: Prof. [Name]</li>
@@ -7,5 +12,6 @@
 
 ---
 
-#### Biography
+**Biography**
+
 [Name] is a Ph.D. student in the Department of Mechanical Engineering at KAIST. His/Her current research focuses on [Specific Research Area]. He/She is particularly interested in~.
