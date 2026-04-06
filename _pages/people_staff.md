@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/staff/
 title: Researchers & Staff
-description: Postdocs, reseachers, and administrative support
+description: Postdocs, Reseachers, and Administrative Support
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
