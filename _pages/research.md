@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-Exploring our core research themes and innovative projects.
+> Exploring our core research themes and innovative projects.
 
 - [Overview](/research/overview/)
 - [Projects](/research/projects/) 
