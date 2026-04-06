@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/alumni/
 title: Alumni
-description: Previous members and their current affiliations 
+description: Previous Members and Their Current Affiliations 
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
