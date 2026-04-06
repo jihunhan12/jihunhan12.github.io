@@ -8,6 +8,6 @@ nav: true
 nav_order: 6
 ---
 
-Capturing the latest milestones and the vibrant life at CUVIC Lab! 
+> Capturing the latest milestones and the vibrant life at CUVIC Lab! 
 
 {% include news.liquid %}
