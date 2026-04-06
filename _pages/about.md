@@ -26,11 +26,11 @@ The CUVIC Lab focuses on coordinating users, vehicles, and infrastructure throug
 ---
 #### Research Interest
 <ul>
-  <lt>Connected and automated vehicles</lt>
-  <lt>Vehicle dynamics and control</lt>
-  <lt>Human-vehicle interaction</lt>
-  <lt>Infrastructure intelligence</lt>
-  <lt>Network-level traffic control</lt>
-  <lt>Intelligent Transportation Systems</lt>
+  <li>Connected and automated vehicles</li>
+  <li>Vehicle dynamics and control</li>
+  <li>Human-vehicle interaction</li>
+  <li>Infrastructure intelligence</li>
+  <li>Network-level traffic control</li>
+  <li>Intelligent Transportation Systems</li>
 </ul>
 
