@@ -1,16 +1,12 @@
 
 #### Name, Ph.D. Student
 
----
-
 #### Education
 
 <ul>    
     <li>M.S. in [Department Name], [Previous University Name] (20XX – 20XX), Advisor: Prof. [Name]</li>
     <li>B.S. in [Department Name], [Previous University Name] (20XX – 20XX)</li>
 </ul>
-
----
 
 #### Biography
 
