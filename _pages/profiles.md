@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-Meet the interdisciplinary team driving the next generation of smart mobility.
+> Meet the interdisciplinary team driving the next generation of smart mobility.
 
 - [Principal Investigator](/people/professor/)
 - [Researcher & Staff](/people/staff/)
