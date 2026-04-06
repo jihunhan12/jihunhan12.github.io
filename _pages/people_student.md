@@ -16,7 +16,7 @@ profiles:
     more_info: >
       E-mail: XXXX@kaist.ac.kr <br>
       Phone: XXX-XXX-XXXX <br>
-      Location: N7-X XXXX
+      Location: N7-X XXXX <br>
 
   - section: graduate
     align: right
