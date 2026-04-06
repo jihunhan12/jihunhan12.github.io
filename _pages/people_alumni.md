@@ -13,6 +13,7 @@ profiles:
     content: biography/example_alumni.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>E-mail: XXXX@XXXX.XX.XX</p>      
+      E-mail: XXXX@xxx.xx.xx <br>
+      <br>      
 
 ---
