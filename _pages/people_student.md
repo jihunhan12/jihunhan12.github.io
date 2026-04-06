@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/student/
 title: Students
-description: Graduate and undergraduate students
+description: Graduate and Undergraduate Students
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
