@@ -9,14 +9,8 @@ nav_order: 4
 
 > Sharing our latest breakthroughs and academic contributions with the global research community.
 
-<!-- _pages/publications.md -->
+- [Journals](/publications/journals/)
+- [Conferences](/publications/conferences/) 
+- [Patents](/publications/patents/)
+- [Presentations](/publications/presentations/) 
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>
