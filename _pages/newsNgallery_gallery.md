@@ -6,3 +6,4 @@ description: Snapshots of Lab Activities and Events
 nav: false
 ---
 
+{% include related_posts.liquid %}
