@@ -14,9 +14,9 @@ profiles:
     content: biography/example_phd.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>E-mail: XXXX@kaist.ac.kr</p>
-      <p>Phone: XXX-XXX-XXXX</p>
-      <p>Location: N7-X XXXX</p>
+      E-mail: XXXX@kaist.ac.kr <br>
+      Phone: XXX-XXX-XXXX <br>
+      Location: N7-X XXXX
 
   - section: graduate
     align: right
