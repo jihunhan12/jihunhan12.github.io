@@ -8,7 +8,7 @@ nav_order: 5
 calendar: true
 ---
 
-Fostering the next generation of engineers! 
+> Fostering the next generation of engineers! 
 
 A collection of course materials for courses, schedules, and academic resources. 
 
