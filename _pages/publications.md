@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-Sharing our latest breakthroughs and academic contributions with the global research community.
+> Sharing our latest breakthroughs and academic contributions with the global research community.
 
 <!-- _pages/publications.md -->
 
