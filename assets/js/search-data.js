@@ -42,7 +42,7 @@ ninja.data = [{
           description: "Updates &amp; Lab Life",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/news/";
+            window.location.href = "/newsNgallery/";
           },
         },{id: "nav-contact",
           title: "Contact",
