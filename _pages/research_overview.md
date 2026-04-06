@@ -2,7 +2,7 @@
 layout: page
 title: Overview
 permalink: /research/overview/
-description: Core research themes and technical vision
+description: Core Research Themes and Technical Vision
 nav: false
 ---
  
