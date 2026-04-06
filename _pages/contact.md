@@ -7,7 +7,7 @@ nav: true
 nav_order: 9
 ---
 
-Start your journey with CUVIC!
+> Start your journey with CUVIC!
 
 Information for prospective students
 
