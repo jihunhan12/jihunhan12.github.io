@@ -10,3 +10,5 @@ nav_order: 6
 
 > Capturing the latest milestones and the vibrant life at CUVIC Lab! 
 
+- [News](/newsNgallery/news/)
+- [Gallery](/newsNgallery/gallery/)
