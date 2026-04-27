@@ -14,6 +14,6 @@ nav: false
 
 <div class="publications">
 
-{% bibliography -f journals --group_by year descending %}
+{% bibliography -f journals %}
 
 </div>
