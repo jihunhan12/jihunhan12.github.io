@@ -154,8 +154,8 @@
     {% if entry.type == 'article' %}      
       {% if entry.journal %}
         {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
-      {% elsif entry.journaltitle %}
-        {% capture entrytype %}<em>{{ entry.journaltitle }}</em>{% endcapture %}
+      {% elsif entry.title %}
+        {% capture entrytype %}<em>{{ entry.title }}</em>{% endcapture %}
       {% else %}
         {% capture entrytype %}{% endcapture %}
       {% endif %}
