@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-04'
 papers:
   6Vd6J_UAAAAJ:-f6ydRqryjwC:
-    citations: 24
+    citations: 23
     title: 'Energy Impact of Connecting Multiple Signalized Intersections to Energy-Efficient Driving: Simulation and Experimental Results'
     year: '2023'
   6Vd6J_UAAAAJ:0EnyYjriUFMC:
-    citations: 81
+    citations: 82
     title: Synthesis of Predictive Equivalent Consumption Minimization Strategy for Hybrid Electric Vehicles Based on Closed-Form Solution of Optimal Equivalence Factor
     year: '2017'
   6Vd6J_UAAAAJ:2osOgNQ5qMEC:
@@ -18,7 +18,7 @@ papers:
     title: Impact of Model Simplification on Optimal Control of Combustion Engine and Electric Vehicles Considering Control Input Constraints
     year: '2018'
   6Vd6J_UAAAAJ:4DMP91E08xMC:
-    citations: 7
+    citations: 6
     title: Fine-tuning a real-time speed planner for eco-driving of connected and automated vehicles
     year: '2020'
   6Vd6J_UAAAAJ:4JMBOYKVnBMC:
@@ -26,7 +26,7 @@ papers:
     title: Validation of Energy Saving From Cooperative Driving Automation via Vehicle-in-the-Loop Tests
     year: '2025'
   6Vd6J_UAAAAJ:4TOpqqG69KYC:
-    citations: 26
+    citations: 24
     title: Closed-form solutions for a real-time energy-optimal and collision-free speed planner with limited information
     year: '2020'
   6Vd6J_UAAAAJ:5nxA0vEk-isC:
@@ -38,7 +38,7 @@ papers:
     title: Smart mobility. Connected and automated vehicles capstone report
     year: '2020'
   6Vd6J_UAAAAJ:8k81kl-MbHgC:
-    citations: 37
+    citations: 36
     title: A real-time eco-driving strategy for automated electric vehicles
     year: '2017'
   6Vd6J_UAAAAJ:9ZlFYXVOiuMC:
@@ -82,7 +82,7 @@ papers:
     title: Leveraging Multiple Connected Traffic Light Signals in an Energy-Efficient Speed Planner
     year: '2020'
   6Vd6J_UAAAAJ:MXK_kJrjxJIC:
-    citations: 181
+    citations: 180
     title: Safe-and eco-driving control for connected and automated electric vehicles using analytical state-constrained optimal solution
     year: '2018'
   6Vd6J_UAAAAJ:NMxIlDl6LWMC:
@@ -90,7 +90,7 @@ papers:
     title: On-Track Validation of Full-Stack Agreement-Seeking Cooperative Driving Automation and Energy Saving Evaluation
     year: Unknown Year
   6Vd6J_UAAAAJ:QIV2ME_5wuYC:
-    citations: 24
+    citations: 22
     title: Vehicle-in-the-loop workflow for the evaluation of energy-efficient automated driving controls in real vehicles
     year: '2022'
   6Vd6J_UAAAAJ:R3hNpaxXUhUC:
@@ -166,11 +166,11 @@ papers:
     title: 'Human Driver Modeling Based on Analytical Optimal Solutions: Stopping Behaviors at the Intersections'
     year: '2020'
   6Vd6J_UAAAAJ:aqlVkmm33-oC:
-    citations: 7
+    citations: 6
     title: A real-time intelligent speed optimization planner using reinforcement learning
     year: '2021'
   6Vd6J_UAAAAJ:bEWYMUwI8FkC:
-    citations: 2
+    citations: 1
     title: 'Assessing the Energy Impacts of Connected and Automated Vehicles: A Comprehensive Validation via Simulation, Dynamometer, and Track Tests'
     year: '2024'
   6Vd6J_UAAAAJ:blknAaTinKkC:
@@ -246,7 +246,7 @@ papers:
     title: State-Constrained Optimal Solutions for Safe Eco-Approach and Departure at Signalized Intersections
     year: '2020'
   6Vd6J_UAAAAJ:r0BpntZqJG4C:
-    citations: 13
+    citations: 12
     title: Effect of adaptive cruise control on fuel consumption in real-world driving conditions
     year: '2024'
   6Vd6J_UAAAAJ:roLk4NBRz8UC:
