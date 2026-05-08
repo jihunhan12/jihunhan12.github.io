@@ -3,12 +3,14 @@
   shorttitle = {Energy-{{Efficient Automated Driving}} for {{Everyday Maneuvers}}},
   author = {Ard, Tyler and Han, Jihun and Gupta, Prakhar and Karbowski, Dominik and Jia, Yunyi and Vahidi, Ardalan},
   year = 2025,
+  month = feb,
   journal = {IEEE Control Systems Letters},
   volume = {9},
   pages = {9--14},
   issn = {2475-1456},
   doi = {10.1109/LCSYS.2025.3539207},
   urldate = {2026-04-27},
+  abstract = {Energy-efficient driving is a key advancement in the deployment of automated vehicles once safety concerns are addressed. This letter formulates the energy-efficient driving problem with constraints and explores various solution methods for common driving scenarios. The findings, rooted in theory of optimal control and Pontryagin's Minimum Principle (PMP), offer fundamental insights into energy-efficient driving strategies in every-day driving scenarios. Analytical insights from PMP, coupled with fast analytical solution of the respective boundary value problem, enabled implementation in a real-time control system and near-optimal energy savings. The proposed approach was validated through real vehicle testing on the track, with results demonstrating that automated eco-driving can achieve significant energy savings over human drivers in basic daily driving scenarios. This letter not only highlights the effectiveness of the proposed approach but also provides practical guidance for integrating energy-efficient driving strategies into real-world automated driving and advanced driver assistance systems.},
   copyright = {https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html}
 }
 
@@ -25,6 +27,7 @@
   issn = {2379-8904, 2379-8858},
   doi = {10.1109/TIV.2023.3234261},
   urldate = {2026-04-27},
+  abstract = {Connected and automated vehicles (CAVs) can plan and actuate control that explicitly considers performance, system safety, and actuation constraints in a manner more efficient than their human-driven counterparts. In particular, eco-driving is enabled through connected exchange of information from signalized corridors that share their upcoming signal phase and timing (SPaT). This is accomplished in the proposed control approach, which follows first principles to plan a free-flow acceleration-optimal trajectory through green traffic light intervals by Pontryagin's Minimum Principle in a feedback manner. Urban conditions are then imposed from exogeneous traffic comprised of a mixture of human-driven vehicles (HVs) - as well as other CAVs. As such, safe disturbance compensation is achieved by implementing a model predictive controller (MPC) to anticipate and avoid collisions by issuing braking commands as necessary. The control strategy is experimentally vetted through vehicle-in-the-loop (VIL) of a prototype CAV that is embedded into a virtual traffic corridor realized through microsimulation. Up to 36\% fuel savings are measured with the proposed control approach over a human-modelled driver, and it was found connectivity in the automation approach improved fuel economy by up to 26\% over automation without. Additionally, the passive energy benefits realizable for human drivers when driving behind downstream CAVs are measured, showing up to 22\% fuel savings in a HV when driving behind a small penetration of connectivity-enabled automated vehicles.},
   copyright = {https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html},
   file = {C:\Users\jihun\Zotero\storage\S4GKTZWX\Ard et al. - 2023 - Energy-Efficient Driving in Connected Corridors via Minimum Principle Control Vehicle-in-the-Loop E.pdf}
 }
@@ -41,6 +44,7 @@
   issn = {1229-9138, 1976-3832},
   doi = {10.1007/s12239-014-0104-9},
   urldate = {2026-04-27},
+  abstract = {In this study, cooperative regenerative braking control of front-wheel-drive hybrid electric vehicle is proposed to recover optimal braking energy while guaranteeing the vehicle lateral stability. In front-wheel-drive hybrid electric vehicle, excessive regenerative braking for recuperation of the maximum braking energy can cause under-steer problem. This is due to the fact that the resultant lateral force on front tire saturates and starts to decrease. Therefore, cost function with constraints is newly defined to determine optimum distribution of brake torques including the regenerative brake torque for improving the braking energy recovery as well as the vehicle lateral stability. This cost function includes trade-off relation of two objectives. The physical meaning of first objective of cost function is to maximize the regenerative brake torque for improving the fuel economy and that of second objective is to increase the mechanical-friction brake torques at rear wheels rather than regenerative brake torque at front wheels for preventing front tire saturation. And weighting factor in cost function is also proposed as a function of under-steer index representing current state of the vehicle lateral motion in order to generalize the constrained optimization problem including both normal and severe cornering situation. For example, as the vehicle approaches its handling limits, adaptation of weighting factor is possible to prioritize front tire saturation over increasing the recuperation of braking energy for driver safety and vehicle lateral stability. Finally, computer simulation of closed loop driver-vehicle system based on Carsim™ performed to verify the effectiveness of adaptation method in proposed controller and the vehicle performance of the proposed controller in comparison with the conventional controller for only considering the vehicle lateral stability. Simulation results indicate that the proposed controller improved the performance of braking energy recovery as well as guaranteed the vehicle lateral stability similar to the conventional controller.},
   langid = {english}
 }
 
@@ -49,12 +53,14 @@
   shorttitle = {Energy {{Impact}} of {{Connecting Multiple Signalized Intersections}} to {{Energy-Efficient Driving}}},
   author = {Han, Jihun and Shen, Daliang and Jeong, Jongryeol and Russo, Miriam Di and Kim, Namdoo and Grave, Julien Jean and Karbowski, Dominik and Rousseau, Aymeric and Stutenberg, Kevin M.},
   year = 2023,
+  month = jan,
   journal = {IEEE Control Systems Letters},
   volume = {7},
   pages = {1297--1302},
   issn = {2475-1456},
   doi = {10.1109/LCSYS.2023.3234808},
   urldate = {2026-04-27},
+  abstract = {Vehicle-to-infrastructure (V2I) communication connects vehicles and enables collision-free and energy-efficient driving, such as eco-approaches and departures at signalized intersections. An increased connectivity range can connect multiple signalized intersections and lead to long-term energy-efficient driving using richer information. However, no published studies to date provide insights into the energy-saving potential of increasing the connectivity range. In this letter, we present a V2I-enabled eco-driving control that can perform multiple traffic signal eco-approaches, and we systematically design a large-scale simulation study to quantify the energy impact of the increased V2I range for various scenarios. Simulation results show that the V2I-enabled eco-driving control can reduce energy use by up to 40\%, on average, compared to the baseline, depending on road attributes and vehicle powertrain type. We validate these findings by evaluating the controller through a vehicle-in-the-loop testing platform.},
   copyright = {https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html}
 }
 
@@ -70,6 +76,7 @@
   issn = {1063-6536, 1558-0865, 2374-0159},
   doi = {10.1109/TCST.2023.3294060},
   urldate = {2026-04-27},
+  abstract = {A longitudinal fuel-optimal speed trajectory has been found to be a control sequence of four possible modes: maximum acceleration, constant speed cruising, coasting, and maximum braking. However, a numerical optimization solver is required, which has been shown to have a tradeoff between computing efficiency and optimality. This article presents a fast analytical solver that computes the longitudinal fuel-optimal speed trajectory for connected and automated vehicles (CAVs). We formulate a longitudinal fuel-optimal control problem and transform it into a boundary value problem (BVP) through Pontryagin's minimum principle. By analyzing the costate dynamics of the BVP, we investigate the underlying mechanism required to build the control sequences that consist of multiple modes for a given boundary condition (BC). This approach allows us to identify feasible control sequences and establish feasible criteria for BC for each sequence. Unlike BVP numerical solvers that require a good initial guess, initial costates can be analytically obtained by linking each mode that has an explicit solution after the control sequence is specified by BC. Finally, we show that CAVs equipped with the proposed solver lead to significant fuel savings for single and multiple-vehicle scenarios with different CAV penetration rates.},
   copyright = {https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html}
 }
 
@@ -85,6 +92,7 @@
   issn = {00051098},
   doi = {10.1016/j.automatica.2019.02.031},
   urldate = {2026-04-27},
+  abstract = {This paper formulates energy efficient driving of gasoline and electric powered vehicles as optimal control problems of various complexity. We show minimizing aerodynamic drag can maximize utilization of energy available at the wheel and requires low and constant speeds. By employing optimal control theory we show periods of maximal acceleration, maximal braking, and coasting often accompany constant speed cruising to satisfy boundary conditions on the states (bang-singular-bang optimal control). In the case of gasoline engine vehicles, analytical optimal control derivations show that pulse and glide operation of the engine while cruising can further reduce fuel use (chattering optimal control). For electric vehicles (EV), quadratic rather than linear dependence of energy use on control input results in different eco-driving patterns from gasoline engine vehicles. For EVs, analytical solution to the two point boundary value optimal control problem could be obtained after model simplification which is compared to numerical solution based on a more accurate model. We also evaluate optimal control solution in the presence of state constraints for EVs. Several simulation case studies are presented to showcase the energy efficiency gains with proposed eco driving strategies.},
   langid = {english}
 }
 
@@ -101,7 +109,7 @@
   issn = {2689-6117, 2689-6125},
   doi = {10.1115/1.4046575},
   urldate = {2026-04-27},
-  abstract = {Abstract             Safe and energy-efficient driving of connected and automated vehicles (CAVs) must be influenced by human-driven vehicles. Thus, to properly evaluate the energy impacts of CAVs in a simulation framework, a human driver model must capture a wide range of real-world driving behaviors corresponding to the surrounding environment. This paper formulates longitudinal human driving as an optimal control problem with a state constraint imposed by the vehicle in front. Deriving analytically optimal solutions by employing optimal control theory can capture longitudinal human driving behaviors with low computational burden, and adding the state constraint can assist with describing car-following features while anticipating behaviors of the vehicle in front. We also use on-road testing data collected by an instrumented vehicle to validate the proposed human driver model for stop scenarios at intersections. Results show that vehicle stopping trajectories of the proposed model are well matched with those of experimental data.},
+  abstract = {Safe and energy-efficient driving of connected and automated vehicles (CAVs) must be influenced by human-driven vehicles. Thus, to properly evaluate the energy impacts of CAVs in a simulation framework, a human driver model must capture a wide range of real-world driving behaviors corresponding to the surrounding environment. This paper formulates longitudinal human driving as an optimal control problem with a state constraint imposed by the vehicle in front. Deriving analytically optimal solutions by employing optimal control theory can capture longitudinal human driving behaviors with low computational burden, and adding the state constraint can assist with describing car-following features while anticipating behaviors of the vehicle in front. We also use on-road testing data collected by an instrumented vehicle to validate the proposed human driver model for stop scenarios at intersections. Results show that vehicle stopping trajectories of the proposed model are well matched with those of experimental data.},
   langid = {english}
 }
 
@@ -117,6 +125,7 @@
   issn = {1229-9138, 1976-3832},
   doi = {10.1007/s12239-014-0029-3},
   urldate = {2026-04-27},
+  abstract = {Under real-life driving conditions, hilly roads are prevalent. Hilly road profile substantially influences fuel economy (FE) due to large impacts (increase or decrease) on power demand profile. Thus, the utilization of future altitude profile information has large potential to improve FE. In this paper, for optimal energy management of fuel cell hybrid electric vehicles (FCHEV), we investigate how much FE could potentially be improved when future altitude profile information is available. In particular, the simulation results are analyzed to justify the reason for this potential improvement and to identify which characteristics of hilly roads leads to large FE improvements. First of all, four statistical parameters are defined to characterize hilly roads: mean value, standard deviation (STD), distance interval (DI), and total distance. Then, several types of virtual hilly roads are generated based on various parameter combinations. In order to evaluate the potential FE improvement two energy management strategies (EMSs) are utilized: the first is Dynamic Programming, which evaluates the globally optimal FE when future hilly road information is available; the other is the Equivalent Consumption Minimization Strategy (ECMS) with adaptive equivalent factor for charge-sustenance, which represents the baseline EMS when future hilly road information is not available. The results show that downhill roads have much larger potential than uphill roads do for FE improvements when the future altitude profile is properly used for EMS. Furthermore, if the battery capacity is not large enough to handle the difference in potential energy, future hilly road information is more important to prevent violations of the maximum state-of-charge bound.},
   copyright = {http://www.springer.com/tdm},
   langid = {english}
 }
@@ -133,6 +142,7 @@
   issn = {2475-1456},
   doi = {10.1109/LCSYS.2020.3047605},
   urldate = {2026-04-27},
+  abstract = {Connecting automated vehicles to traffic lights can lead to significant energy savings by enabling them to pass through intersections in an energy-efficient way without unnecessary stops. A cellular-based communication system connecting multiple traffic lights can help realize the full potential of energy-efficient driving at intersections. Thus, we propose a hierarchical speed planner that can leverage information from multiple connected traffic lights. The proposed speed planner consists of two modules: a green window selector and a reference trajectory generator. The green window selector, based on Dijkstra's algorithm, finds a series of ``green windows'' for connected traffic lights that builds an energy-optimal path for vehicles to follow. The reference trajectory generator finds optimal entering times, based on the selected green window at each intersection, and then computes reference trajectories. Deriving and using analytical optimal entering speeds as a function of entering times allows us to guarantee the computational simplicity suitable for real-time implementation. We also demonstrate how to balance energy and traffic flow perspectives in the reference trajectory generator. Finally, a high-fidelity simulation framework is used to evaluate the proposed speed planner and quantify the extent to which it can save energy in various real-world urban route scenarios.},
   copyright = {https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html},
   file = {C:\Users\jihun\Zotero\storage\H5UT82U4\Han et al. - 2021 - Leveraging Multiple Connected Traffic Light Signals in an Energy-Efficient Speed Planner.pdf}
 }
@@ -148,6 +158,7 @@
   issn = {09670661},
   doi = {10.1016/j.conengprac.2026.106988},
   urldate = {2026-04-25},
+  abstract = {Verification and validation of connected and automated vehicle (CAV) control strategies are essential before real-world deployments. However, most prior work relies on simulation, and existing experiments often focus on simplified or isolated scenarios rather than corridor-scale traffic scenarios. In this study, we enhance a track-based X-in-the-loop (XIL) testing framework and systematically evaluate human-driven vehicles (HVs), connected human-driven vehicles (CHVs), and CAVs in a two-lane urban corridor under varying traffic conditions. Using Chicago Roosevelt Road as a reference, we generate realistic multi-lane traffic, including lane changes by HVs and eco-driving behaviors of CAVs. We prepare a new electric vehicle platform with full closed-loop control, furthermore we enhance a HoloLens 2 mixed-reality interface to render multi-lane virtual traffic in the driver's field of view. The experimental results show that connected eco-driving can reduce energy consumption for both ego-CHV and ego-CAV cases, achieving up to 21\% and 14\% savings, respectively, under medium traffic conditions. However, travel times increase due to driver speed adherence limitations for ego-CHVs and interactions with surrounding HVs (e.g., cut-ins and queue growth) for ego-CAVs. When CAV penetration increases to 40\% (future scenarios), the downstream traffic-smoothing effect reduces queue formation and cut-ins, enabling the ego-CAV to follow smoother trajectories and achieve higher energy savings (up to 21\%) without additional travel time penalty.},
   langid = {english}
 }
 
@@ -162,6 +173,7 @@
   issn = {03787753},
   doi = {10.1016/j.jpowsour.2014.05.067},
   urldate = {2026-04-27},
+  abstract = {Among existing energy management strategies (EMSs) for fuel cell hybrid electric vehicles (FCHEV), the equivalent consumption minimization strategy (ECMS) is often considered as a practical approach because it can be implemented in real-time, while achieving near-optimal performance. However, under real-world driving conditions with uncertainties such as hilly roads, both near-optimality and charge-sustenance of ECMS are not guaranteed unless the equivalent factor (EF) is optimally adjusted in real-time. In this paper, a methodology of extracting the globally optimal EF trajectory from dynamic programming (DP) solution is proposed for the design of EF adaptation strategies. In order to illustrate the performance and process of the extraction method, a FCHEV energy management problem under hilly road conditions is investigated as a case study. The main goal is to learn how EF should be adjusted and the impact of EF adaptation on fuel economy under several hilly road cases. Using the extraction method, the DP-based EF is computed, and its performance is compared with those of Pontryagin's minimum principle (PMP) and conventional ECMS. The results show that the optimal EF adaptation significantly improves fuel economy when the battery SoC constraint becomes active, and thus EF must be properly adjusted under severely hilly road conditions.},
   langid = {english}
 }
 
@@ -177,6 +189,7 @@
   issn = {2379-8904, 2379-8858},
   doi = {10.1109/TIV.2018.2804162},
   urldate = {2026-04-27},
+  abstract = {Speed advisory systems have been proposed for connected vehicles in order to minimize energy consumption over a planned route. However, for their practical diffusion, these systems must adequately take into account the presence of preceding vehicles. In this paper, a safe- and eco-driving control system is proposed for connected and automated vehicles to accelerate or decelerate optimally while guaranteeing vehicle safety constraints. We define minimum intervehicle distance and maximum road speed limit as state constraints, and formulate an optimal control problem minimizing the energy consumption. Then, an analytical state-constrained solution is derived for real-time use. A feasible range of terminal conditions is established, and such conditions are adjusted to guarantee the existence of the analytical solution. The proposed system is evaluated through simulation for various driving scenarios of the preceding vehicle. Results show that it can significantly reduce energy consumption and also avoid collision without increasing trip time. Moreover, the proposed system can serve as an energy-efficient advanced cruise control by setting a short prediction horizon.},
   copyright = {https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html}
 }
 
@@ -225,6 +238,7 @@
   issn = {0018-9545, 1939-9359},
   doi = {10.1109/TVT.2017.2660764},
   urldate = {2026-04-27},
+  abstract = {Previously, an equivalent consumption minimization strategy (ECMS) was developed that provides near-optimal performance of hybrid vehicles based on an adaptation of equivalence factor from state of charge feedback. However, under real-world driving conditions with uncertainties, such as hilly roads, ECMS requires a predictive scheme utilizing future driving information in order to prevent a loss of optimality. In this paper, we synthesize predictive ECMS in a feedforward way to adjust the equivalence factor based on its theoretical connection with future driving statistics, in a systematic manner. First, a useful noncausal adaptation strategy is extracted from dynamic programming results. Then, the inverse problem is formulated and solved to derive an explicit representation of the constant optimal equivalence factor with justified assumptions. Finally, a causal, predictive adaptation strategy using this closed-form solution is synthesized to mimic the noncausal one, and its effectiveness is evaluated for fuel cell hybrid electric vehicles. Results show that if the predicted statistical information reflects well the future driving conditions, the proposed strategy accurately estimates the constant optimal equivalence factor, including the jump behavior, thereby yielding less than 1.5\% loss of fuel optimality. Moreover, this approach is extendible to other configurations.},
   copyright = {https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html}
 }
 
@@ -264,12 +278,14 @@
   title = {Analysis of {{Control Behavior}} in {{Eco-Driving Speed Optimization Using Pontryagin}}'s {{Minimum Principle}}},
   author = {Lyu, Shaowen and Yang, Liyue and Shen, Daliang and Han, Jihun and Karbowski, Dominik and Kim, Namwook},
   year = 2024,
+  month = oct,
   journal = {IEEE Access},
   volume = {12},
   pages = {148893--148903},
   issn = {2169-3536},
   doi = {10.1109/ACCESS.2024.3477716},
   urldate = {2026-04-27},
+  abstract = {The energy efficiency of autonomous vehicles can be improved by selecting an optimized speed profile. Energy savings can be maximized by performing control optimization with knowledge of the powertrain characteristics and future driving conditions. Previous studies have shown that Pontryagin's minimum principle (PMP) performs well in vehicle speed optimization problems. Building on the methods proposed in previous studies, the contribution of this study is to derive meaningful observations from the concepts and results of PMP to enhance the understanding of the control problem. In particular, the switching behavior of the control mode is analyzed with supportive variables, such as {$\xi$} and mv, which dictates the changes in the control modes. Additionally, the existence of the singular control is analyzed, which helps in understanding the cruise driving in the control problem. Finally, we obtain several solutions that satisfy various boundary conditions along with a map of the reachable states, and discuss the impact of cruise driving. This is helpful for designing practical control concepts for real-world applications based on this map. Previous studies have contributed significantly to this control problem; however, this study provides a better understanding of the issue and offers guidance and inspiration for future real-world applications based on these meaningful observations.},
   copyright = {https://creativecommons.org/licenses/by-nc-nd/4.0/},
   file = {C:\Users\jihun\Zotero\storage\WHBNQCEF\Lyu et al. - 2024 - Analysis of Control Behavior in Eco-Driving Speed Optimization Using Pontryagin’s Minimum Principle.pdf}
 }
@@ -303,5 +319,6 @@
   issn = {09670661},
   doi = {10.1016/j.conengprac.2026.106982},
   urldate = {2026-04-25},
+  abstract = {As connected and automated vehicles (CAVs) become more prevalent, quantifying their system-level impacts in realistic mixed traffic is critical. This paper releases a reproducible benchmark and evaluation framework for longitudinal CAV control in mixed traffic simulation. We evaluate four representative longitudinal controllers across two freeway scenarios: an on-ramp corridor and a calibrated Interstate-24 corridor. Outcomes are assessed consistently from four metrics: safety, throughput and stability, fuel consumption, and interactions with other drivers. The simulation analysis proceeds in three layers: comparison of controllers, market penetration analysis, and explanation of unmodeled effects. Results show that various controllers have distinct traffic impact based on their modeling principles. Generally speaking, higher CAV penetration consistently improves throughput and stability across all controllers, but safety and fuel consumption metrics may have subtle variations across controllers and scenarios. This subtlety can be captured by our comprehensive evaluation framework where the interplay across all four metrics can be quantified. Overall, the framework provides a reproducible and extensible simulation platform for assessing any custom CAV control in various traffic scenarios.},
   langid = {english}
 }
