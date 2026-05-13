@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-13'
 papers:
   6Vd6J_UAAAAJ:-f6ydRqryjwC:
     citations: 23
     title: 'Energy Impact of Connecting Multiple Signalized Intersections to Energy-Efficient Driving: Simulation and Experimental Results'
     year: '2023'
   6Vd6J_UAAAAJ:0EnyYjriUFMC:
-    citations: 82
+    citations: 83
     title: Synthesis of Predictive Equivalent Consumption Minimization Strategy for Hybrid Electric Vehicles Based on Closed-Form Solution of Optimal Equivalence Factor
     year: '2017'
   6Vd6J_UAAAAJ:2osOgNQ5qMEC:
@@ -49,6 +49,10 @@ papers:
     citations: 182
     title: Optimal adaptation of equivalent factor of equivalent consumption minimization strategy for fuel cell hybrid electric vehicles under active state inequality constraints
     year: '2014'
+  6Vd6J_UAAAAJ:BqipwSGYUEgC:
+    citations: 1
+    title: "MR-HVIL: A Mixed-Reality-Based Human\u2013Vehicle-In-the-Loop On-Road Validation Platform for Mixed Traffic Testing"
+    year: '2026'
   6Vd6J_UAAAAJ:HDshCWvjkbEC:
     citations: 7
     title: An X-in-the-Loop (XIL) Testing Framework for Validation of Connected and Autonomous Vehicles
@@ -226,7 +230,7 @@ papers:
     title: 'Energy-Efficient Automated Driving for Everyday Maneuvers: Fundamentals to Experimentation'
     year: '2025'
   6Vd6J_UAAAAJ:mB3voiENLucC:
-    citations: 10
+    citations: 11
     title: Fast analytical solver for fuel-optimal speed trajectory of connected and/or automated vehicles
     year: '2023'
   6Vd6J_UAAAAJ:maZDTaKrznsC:
