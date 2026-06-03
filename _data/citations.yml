@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-06-03'
 papers:
   6Vd6J_UAAAAJ:-f6ydRqryjwC:
-    citations: 23
+    citations: 24
     title: 'Energy Impact of Connecting Multiple Signalized Intersections to Energy-Efficient Driving: Simulation and Experimental Results'
     year: '2023'
   6Vd6J_UAAAAJ:0EnyYjriUFMC:
@@ -18,7 +18,7 @@ papers:
     title: Impact of Model Simplification on Optimal Control of Combustion Engine and Electric Vehicles Considering Control Input Constraints
     year: '2018'
   6Vd6J_UAAAAJ:4DMP91E08xMC:
-    citations: 6
+    citations: 7
     title: Fine-tuning a real-time speed planner for eco-driving of connected and automated vehicles
     year: '2020'
   6Vd6J_UAAAAJ:4JMBOYKVnBMC:
@@ -26,7 +26,7 @@ papers:
     title: Validation of Energy Saving From Cooperative Driving Automation via Vehicle-in-the-Loop Tests
     year: '2025'
   6Vd6J_UAAAAJ:4TOpqqG69KYC:
-    citations: 24
+    citations: 26
     title: Closed-form solutions for a real-time energy-optimal and collision-free speed planner with limited information
     year: '2020'
   6Vd6J_UAAAAJ:5nxA0vEk-isC:
@@ -38,7 +38,7 @@ papers:
     title: Smart mobility. Connected and automated vehicles capstone report
     year: '2020'
   6Vd6J_UAAAAJ:8k81kl-MbHgC:
-    citations: 36
+    citations: 37
     title: A real-time eco-driving strategy for automated electric vehicles
     year: '2017'
   6Vd6J_UAAAAJ:9ZlFYXVOiuMC:
@@ -54,7 +54,7 @@ papers:
     title: "MR-HVIL: A Mixed-Reality-Based Human\u2013Vehicle-In-the-Loop On-Road Validation Platform for Mixed Traffic Testing"
     year: '2026'
   6Vd6J_UAAAAJ:HDshCWvjkbEC:
-    citations: 7
+    citations: 8
     title: An X-in-the-Loop (XIL) Testing Framework for Validation of Connected and Autonomous Vehicles
     year: '2023'
   6Vd6J_UAAAAJ:IWHjjKOFINEC:
@@ -86,7 +86,7 @@ papers:
     title: Leveraging Multiple Connected Traffic Light Signals in an Energy-Efficient Speed Planner
     year: '2020'
   6Vd6J_UAAAAJ:MXK_kJrjxJIC:
-    citations: 180
+    citations: 184
     title: Safe-and eco-driving control for connected and automated electric vehicles using analytical state-constrained optimal solution
     year: '2018'
   6Vd6J_UAAAAJ:NMxIlDl6LWMC:
@@ -94,7 +94,7 @@ papers:
     title: On-Track Validation of Full-Stack Agreement-Seeking Cooperative Driving Automation and Energy Saving Evaluation
     year: Unknown Year
   6Vd6J_UAAAAJ:QIV2ME_5wuYC:
-    citations: 22
+    citations: 24
     title: Vehicle-in-the-loop workflow for the evaluation of energy-efficient automated driving controls in real vehicles
     year: '2022'
   6Vd6J_UAAAAJ:R3hNpaxXUhUC:
@@ -166,15 +166,15 @@ papers:
     title: Testing Cellular Vehicle-to-Everything Communication Performance and Feasibility in Automated Vehicles *
     year: '2024'
   6Vd6J_UAAAAJ:_kc_bZDykSQC:
-    citations: 18
+    citations: 19
     title: 'Human Driver Modeling Based on Analytical Optimal Solutions: Stopping Behaviors at the Intersections'
     year: '2020'
   6Vd6J_UAAAAJ:aqlVkmm33-oC:
-    citations: 6
+    citations: 7
     title: A real-time intelligent speed optimization planner using reinforcement learning
     year: '2021'
   6Vd6J_UAAAAJ:bEWYMUwI8FkC:
-    citations: 1
+    citations: 2
     title: 'Assessing the Energy Impacts of Connected and Automated Vehicles: A Comprehensive Validation via Simulation, Dynamometer, and Track Tests'
     year: '2024'
   6Vd6J_UAAAAJ:blknAaTinKkC:
@@ -194,7 +194,7 @@ papers:
     title: "\uD558\uC774\uBE0C\uB9AC\uB4DC \uC5F0\uB8CC \uC804\uC9C0 \uC790\uB3D9\uCC28\uC758 \uBC30\uD130\uB9AC \uCDA9\uC804\uB7C9 \uBCC0\uD654\uB7C9\uC744 \uACE0\uB824\uD55C \uAC00\uC0C1 \uC5F0\uBE44 \uD3C9\uAC00 \uBC29\uBC95 \uBD84\uC11D"
     year: '2012'
   6Vd6J_UAAAAJ:hC7cP41nSMkC:
-    citations: 53
+    citations: 54
     title: 'Energy-efficient driving in connected corridors via minimum principle control: Vehicle-in-the-loop experimental verification in mixed fleets'
     year: '2023'
   6Vd6J_UAAAAJ:hFOr9nPyWt4C:
@@ -222,7 +222,7 @@ papers:
     title: "Analysis of control behavior in eco-driving speed optimization using Pontryagin\u2019s minimum principle"
     year: '2024'
   6Vd6J_UAAAAJ:kNdYIx-mwKoC:
-    citations: 186
+    citations: 189
     title: 'Fundamentals of energy efficient driving for combustion engine and electric vehicles: An optimal control perspective'
     year: '2019'
   6Vd6J_UAAAAJ:k_IJM867U9cC:
@@ -250,7 +250,7 @@ papers:
     title: State-Constrained Optimal Solutions for Safe Eco-Approach and Departure at Signalized Intersections
     year: '2020'
   6Vd6J_UAAAAJ:r0BpntZqJG4C:
-    citations: 12
+    citations: 14
     title: Effect of adaptive cruise control on fuel consumption in real-world driving conditions
     year: '2024'
   6Vd6J_UAAAAJ:roLk4NBRz8UC:
