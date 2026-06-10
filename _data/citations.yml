@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-10'
 papers:
   6Vd6J_UAAAAJ:-f6ydRqryjwC:
     citations: 24
     title: 'Energy Impact of Connecting Multiple Signalized Intersections to Energy-Efficient Driving: Simulation and Experimental Results'
     year: '2023'
   6Vd6J_UAAAAJ:0EnyYjriUFMC:
-    citations: 83
+    citations: 84
     title: Synthesis of Predictive Equivalent Consumption Minimization Strategy for Hybrid Electric Vehicles Based on Closed-Form Solution of Optimal Equivalence Factor
     year: '2017'
   6Vd6J_UAAAAJ:2osOgNQ5qMEC:
@@ -82,11 +82,11 @@ papers:
     title: Advancing Connected Vehicle Capabilities with Scalable and Flexible Anything-In-The-Loop Testing Framework
     year: '2025'
   6Vd6J_UAAAAJ:M3ejUd6NZC8C:
-    citations: 47
+    citations: 48
     title: Leveraging Multiple Connected Traffic Light Signals in an Energy-Efficient Speed Planner
     year: '2020'
   6Vd6J_UAAAAJ:MXK_kJrjxJIC:
-    citations: 184
+    citations: 185
     title: Safe-and eco-driving control for connected and automated electric vehicles using analytical state-constrained optimal solution
     year: '2018'
   6Vd6J_UAAAAJ:NMxIlDl6LWMC:
@@ -162,7 +162,7 @@ papers:
     title: "Leveraging Multiple Connected Traffic Light Signals in an Energy-Efficient Speed Planner** This report and the work described were sponsored by the US Department of Energy (DOE \u2026"
     year: '2021'
   6Vd6J_UAAAAJ:_Qo2XoVZTnwC:
-    citations: 7
+    citations: 8
     title: Testing Cellular Vehicle-to-Everything Communication Performance and Feasibility in Automated Vehicles *
     year: '2024'
   6Vd6J_UAAAAJ:_kc_bZDykSQC:
@@ -194,7 +194,7 @@ papers:
     title: "\uD558\uC774\uBE0C\uB9AC\uB4DC \uC5F0\uB8CC \uC804\uC9C0 \uC790\uB3D9\uCC28\uC758 \uBC30\uD130\uB9AC \uCDA9\uC804\uB7C9 \uBCC0\uD654\uB7C9\uC744 \uACE0\uB824\uD55C \uAC00\uC0C1 \uC5F0\uBE44 \uD3C9\uAC00 \uBC29\uBC95 \uBD84\uC11D"
     year: '2012'
   6Vd6J_UAAAAJ:hC7cP41nSMkC:
-    citations: 54
+    citations: 56
     title: 'Energy-efficient driving in connected corridors via minimum principle control: Vehicle-in-the-loop experimental verification in mixed fleets'
     year: '2023'
   6Vd6J_UAAAAJ:hFOr9nPyWt4C:
