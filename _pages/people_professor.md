@@ -18,3 +18,16 @@ profiles:
       Location: N7-4 6113 <br>
       <br>
 ---
+
+#### Jihun Han, Ph.D. 
+
+#### Education
+
+<ul>    
+    <li>M.S. in [Department], [University] (20XX – 20XX), Advisor: Prof. [Name]</li>
+    <li>B.S. in [Department], [University] (20XX – 20XX)</li>
+</ul>
+
+#### Biography
+
+[Name] is a Ph.D. student in the Department of Mechanical Engineering at KAIST.
