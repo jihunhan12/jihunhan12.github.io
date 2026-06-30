@@ -5,11 +5,17 @@
 
 <ul>    
     <li>Ph.D. in Mechanical Engineering, KAIST (2011 – 2016)
-        Advisor: Prof. Youngjin Park and Prof. Youn-sik Park
-        Title: Predictive energy management strategy of hybrid vehicles utilizing statistical information on future power demand </li>    
+        <ul>
+            <li>Advisor: Prof. Youngjin Park and Prof. Youn-sik Park </li>
+            <li>Title: Predictive energy management strategy of hybrid vehicles utilizing statistical information on future power demand </li>
+        </ul>
+    </li>    
     <li>M.S. in Mechanical Engineering, KAIST (2011 – 2011)
-        Advisor: Prof. Youngjin Park and Prof. Youn-sik Park
-        Title: Cooperative braking control strategy for regenerative braking energy efficiency and vehicle stability of fuel cell hybrid electric vehicle </li>
+        <ul>
+            <li>Advisor: Prof. Youngjin Park and Prof. Youn-sik Park </li>
+            <li>Title: Cooperative braking control strategy for regenerative braking energy efficiency and vehicle stability of fuel cell hybrid electric vehicle </li>
+        </ul>
+    </li>
     <li>B.S. in Mechanical Engineering, KAIST (2005 – 2009)</li>
 </ul>
 
