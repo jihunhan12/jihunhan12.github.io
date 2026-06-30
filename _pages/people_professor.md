@@ -15,6 +15,6 @@ profiles:
     more_info: >
       E-mail: XXXX@kaist.ac.kr <br>
       Phone: 042-350-3031 <br>
-      Location: N7-X 6113 <br>
+      Location: N7-4 6113 <br>
       <br>
 ---
