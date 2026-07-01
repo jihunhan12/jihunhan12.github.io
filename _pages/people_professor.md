@@ -13,7 +13,7 @@ profiles:
     content: biography/JihunHan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      E-mail: XXXX@kaist.ac.kr <br>
+      E-mail: jihun.han@kaist.ac.kr <br>
       Phone: 042-350-3031 <br>
       Location: N7-4 6113 <br>
       <br>
