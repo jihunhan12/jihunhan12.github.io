@@ -16,7 +16,7 @@ We welcome inquiries from motivated students who are interested in joining the C
 Please include a brief introduction, your academic background, and your research interests. In addition, please attach the following materials:
 
 - CV or resume
-- A 1–2 page statement of research interests, including the research topics you would like to explore and how they relate to our lab’s research
+- 1–2 page statement of research interests, including the research topics you would like to explore and how they relate to CUVIC Lab’s research
 
 Please contact Prof. Jihun Han at [jihun.han@kaist.ac.kr](mailto:jihun.han@kaist.ac.kr) using the following email subject line:
 
@@ -25,7 +25,7 @@ Please contact Prof. Jihun Han at [jihun.han@kaist.ac.kr](mailto:jihun.han@kaist
 
 ## General Inquiries
 
-For general questions about our research, collaborations, seminars, or other lab-related matters, please contact Prof. Jihun Han at [jihun.han@kaist.ac.kr](mailto:jihun.han@kaist.ac.kr) using the following email subject line:
+For general questions about CUVIC Lab's research, collaborations, seminars, or other lab-related matters, please contact Prof. Jihun Han at [jihun.han@kaist.ac.kr](mailto:jihun.han@kaist.ac.kr) using the following email subject line:
 
 - `General Inquiry – [Topic]`
 - `일반 문의 – [문의 주제]`
