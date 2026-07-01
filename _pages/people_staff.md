@@ -33,12 +33,12 @@ profiles:
   - section: admin # prof,admin,researcher,postdoc,graduate,undergraduate,alumni
     align: right
     image: admin1.png
-    content: 
+    content: biography/example_staff.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      E-mail: XXXX@kaist.ac.kr <br>
-      Phone: XXX-XXX-XXXX <br>
-      Location: N7-X XXXX <br>
+      E-mail: hnkoo77@kaist.ac.kr <br>
+      Phone: 042-350-1541 <br>
+      Location: N27 7117 <br>
       <br>
 
 ---
