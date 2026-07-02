@@ -1,5 +1,5 @@
 
-#### Jihun Han (한지훈), Ph.D.
+#### **Jihun Han (한지훈)**, Ph.D.
 
 #### Education
 
