@@ -22,7 +22,7 @@ profiles:
   - section: graduate
     align: right
     image: master1.png
-    content: biography/example_master.md
+    content: # biography/example_master.md
     image_circular: false # crops the image to make it circular
     more_info: >
       E-mail: XXXX@kaist.ac.kr <br>
@@ -33,7 +33,7 @@ profiles:
   - section: undergraduate
     align: right
     image: undergraduate1.png
-    content: biography/example_intern.md
+    content: # biography/example_intern.md
     image_circular: false # crops the image to make it circular
     more_info: >
       E-mail: XXXX@kaist.ac.kr <br>
