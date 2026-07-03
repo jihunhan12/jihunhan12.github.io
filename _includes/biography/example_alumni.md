@@ -1,5 +1,5 @@
 
-#### Name, Ph.D.
+#### **Name**, Ph.D.
 
 #### Appointment
 
