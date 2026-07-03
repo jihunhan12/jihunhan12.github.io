@@ -1,5 +1,5 @@
 
-#### Name, Ph.D. Student
+#### **Name**, Ph.D. Student
 
 #### Education
 
