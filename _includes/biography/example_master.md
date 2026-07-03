@@ -1,5 +1,5 @@
 
-#### Name, Master Student
+#### **Name**, Master Student
 
 #### Education
 
