@@ -11,7 +11,7 @@ profiles:
   - section: graduate
     align: right
     image: phd1.png
-    content: biography/example_phd.md
+    content: # biography/example_phd.md
     image_circular: false # crops the image to make it circular
     more_info: >
       E-mail: XXXX@kaist.ac.kr <br>
