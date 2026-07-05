@@ -8,6 +8,8 @@ term: Fall
 location: Creative Learning B/D (창의학습관), Room 402
 time: Tuesdays and Thursdays, 10:30 AM - 12:00 PM
 course_id: dynamics
+schedule:
+---
 
 ## Course Overview
 
