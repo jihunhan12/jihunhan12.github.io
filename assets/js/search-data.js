@@ -403,12 +403,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-professor-jihun-han-officially-joined-kaist-as-of-today",
+      },{id: "news-professor-jihun-han-officially-joined-kaist-as-of-today",
           title: 'Professor Jihun Han officially joined KAIST as of today!!',
           description: "",
           section: "News",},{id: "projects-project-title",
