@@ -23,6 +23,7 @@ Please contact Prof. Jihun Han at [jihun.han@kaist.ac.kr](mailto:jihun.han@kaist
 - `Prospective Student Inquiry – [Your Name] – [Program/Position of Interest]`
 - `예비 학생 문의 – [이름] – [관심 프로그램/포지션]`
 
+---
 ## General Inquiries
 
 For general questions about CUVIC Lab's research, collaborations, seminars, or other lab-related matters, please contact Prof. Jihun Han at [jihun.han@kaist.ac.kr](mailto:jihun.han@kaist.ac.kr) using the following email subject line:
