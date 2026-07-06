@@ -9,7 +9,7 @@ nav_order: 9
 
 > Start your journey with CUVIC!
 
-## Information for Prospective Students
+### Information for Prospective Students
 
 We welcome inquiries from motivated students who are interested in joining the CUVIC Lab. Prospective undergraduate students, graduate students, and visiting researchers are encouraged to review our research areas and recent publications before contacting us.
 
@@ -24,7 +24,7 @@ Please contact Prof. Jihun Han at [jihun.han@kaist.ac.kr](mailto:jihun.han@kaist
 - `예비 학생 문의 – [이름] – [관심 프로그램/포지션]`
 
 ---
-## General Inquiries
+### General Inquiries
 
 For general questions about CUVIC Lab's research, collaborations, seminars, or other lab-related matters, please contact Prof. Jihun Han at [jihun.han@kaist.ac.kr](mailto:jihun.han@kaist.ac.kr) using the following email subject line:
 
