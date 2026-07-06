@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Cooperative User-centric Vehicle-infrastructure Intelligence and Control 
+subtitle: Cooperative User-centric Vehicle-infrastructure Intelligence and Control (사람 중심 협력형 차량-인프라 지능 및 제어)
 
 profile:
   align: right
