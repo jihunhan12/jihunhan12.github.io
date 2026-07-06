@@ -25,7 +25,7 @@ announcements:
 The CUVIC Lab focuses on coordinating users, vehicles, and infrastructure through cooperative intelligence and control to achieve safe, user-centric, and efficient mobility. We view connected and automated vehicles (CAVs) as sensors and actuators in future mobility systems, enabled by seamless user-vehicle-infrastructure interactions. These systems improve both individual performance and overall network-level traffic efficiency, even in mixed traffic. We address scalable control problems from powertrain and vehicle levels to network-level systems, leveraging optimal control, optimization, and AI- and learning-based methods. We validate these control concepts through X-in-the-loop (XIL) testing, integrating real and virtual elements, as well as public road testing.
 
 ---
-#### Research Interest
+### Research Interest
 <ul>
   <li>Connected and Automated Vehicles</li>
   <li>Vehicle Dynamics and Control</li>
