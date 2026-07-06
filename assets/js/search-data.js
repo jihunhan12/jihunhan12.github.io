@@ -54,9 +54,9 @@ ninja.data = [{
         },{id: "news-professor-jihun-han-officially-joined-kaist-as-of-today",
           title: 'Professor Jihun Han officially joined KAIST as of today!!',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-project",
+          title: 'project',
+          description: "Period Apr 1, 2026 - Dec 31, 2029, and Sponsor KAIST (정착연구과제)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "teachings-dynamics",
