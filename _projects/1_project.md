@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project
-description: Period Apr 1, 2026 - Dec 31, 2029, and Sponsor KAIST (정착연구과제)
+title: A Multi-Platform Validation Framework for Intelligent Vehicle and Mobility Control Research
+description: Apr 1, 2026 - Dec 31, 2029, Sponsored by KAIST (정착연구과제)
 img: assets/img/12.jpg
 importance: 1
 category: ongoing
