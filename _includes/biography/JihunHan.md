@@ -4,19 +4,19 @@
 #### Education
 
 <ul>    
-    <li>Ph.D. in Mechanical Engineering, KAIST (2011 – 2016)
+    <li>Ph.D. in Mechanical Engineering, KAIST (2011 - 2016)
         <ul>
             <li>Advisor: Prof. Youngjin Park and Prof. Youn-sik Park </li>
             <li>Title: Predictive energy management strategy of hybrid vehicles utilizing statistical information on future power demand </li>
         </ul>
     </li>    
-    <li>M.S. in Mechanical Engineering, KAIST (2009 – 2011)
+    <li>M.S. in Mechanical Engineering, KAIST (2009 - 2011)
         <ul>
             <li>Advisor: Prof. Youngjin Park and Prof. Youn-sik Park </li>
             <li>Title: Cooperative braking control strategy for regenerative braking energy efficiency and vehicle stability of fuel cell hybrid electric vehicle </li>
         </ul>
     </li>
-    <li>B.S. in Mechanical Engineering, KAIST (2005 – 2009)</li>
+    <li>B.S. in Mechanical Engineering, KAIST (2005 - 2009)</li>
 </ul>
 
 #### Experience
@@ -31,7 +31,7 @@
 <ul>
     <li>IMPACT Argonne Award (Team), ANL (03/2024) </li>
     <li>Best Paper Award (the committee of road user measurement and evaluation), Transportation Research Board 103rd Annual Meeting (01/2024) </li>
-    <li>2nd and 3rd places – Best Paper Award, IEEE International Automated Vehicle Validation Conference (10/2023) </li>
+    <li>2nd and 3rd places - Best Paper Award, IEEE International Automated Vehicle Validation Conference (10/2023) </li>
     <li>IMPACT Argonne Award (Individual), ANL (08/2023)</li>    
 </ul>
 
