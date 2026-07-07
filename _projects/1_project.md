@@ -8,5 +8,5 @@ category: ongoing
 related_publications: true
 ---
 
-This research project aims to develop a data-simulation-validation framework for intelligent vehicle and mobility control studies at KAIST. By applying the proposed framework to infrastructure–vehicle cooperative perception and control as a representative use case, the project seeks to demonstrate its feasibility, scalability, and potential for broader applications.
+This research project aims to develop a data-simulation-validation framework for intelligent vehicle and mobility control studies at KAIST. By applying the proposed framework to infrastructure-vehicle cooperative perception and control as a representative use case, the project seeks to demonstrate its feasibility, scalability, and potential for broader applications.
 
