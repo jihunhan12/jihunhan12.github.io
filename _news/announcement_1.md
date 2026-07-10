@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Professor Jihun Han officially joined KAIST as of today!!
+Prof. Jihun Han officially joined KAIST as of today!!
