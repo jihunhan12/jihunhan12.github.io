@@ -51,8 +51,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "news-professor-jihun-han-officially-joined-kaist-as-of-today",
-          title: 'Professor Jihun Han officially joined KAIST as of today!!',
+        },{id: "news-prof-jihun-han-officially-joined-kaist-as-of-today",
+          title: 'Prof. Jihun Han officially joined KAIST as of today!!',
           description: "",
           section: "News",},{id: "projects-intelligent-vehicle-amp-mobility-validation-framework",
           title: 'Intelligent Vehicle &amp;amp; Mobility Validation Framework',
