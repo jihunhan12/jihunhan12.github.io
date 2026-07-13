@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jihunhan12.github.io/sitemap.xml
+Sitemap: https://cuvic.kaist.ac.kr/sitemap.xml

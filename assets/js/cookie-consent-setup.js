@@ -96,7 +96,7 @@ function initializeCookieConsent() {
               },
               {
                 title: 'More information',
-                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://jihunhan12.github.io/#contact">contact us</a>.'
+                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://cuvic.kaist.ac.kr/#contact">contact us</a>.'
               }
             ]
           }
