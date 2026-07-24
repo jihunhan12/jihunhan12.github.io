@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-24'
 papers:
   6Vd6J_UAAAAJ:-f6ydRqryjwC:
     citations: 25
@@ -46,7 +46,7 @@ papers:
     title: Assessing the Implications of Automated Merging Control in a Mixed and Heterogeneous Traffic Environment
     year: '2021'
   6Vd6J_UAAAAJ:9yKSN-GCB0IC:
-    citations: 188
+    citations: 189
     title: Optimal adaptation of equivalent factor of equivalent consumption minimization strategy for fuel cell hybrid electric vehicles under active state inequality constraints
     year: '2014'
   6Vd6J_UAAAAJ:BqipwSGYUEgC:
@@ -226,7 +226,7 @@ papers:
     title: "Analysis of control behavior in eco-driving speed optimization using Pontryagin\u2019s minimum principle"
     year: '2024'
   6Vd6J_UAAAAJ:kNdYIx-mwKoC:
-    citations: 190
+    citations: 191
     title: 'Fundamentals of energy efficient driving for combustion engine and electric vehicles: An optimal control perspective'
     year: '2019'
   6Vd6J_UAAAAJ:k_IJM867U9cC:
@@ -246,7 +246,7 @@ papers:
     title: Data-driven design of model predictive control for powertrain-aware eco-driving considering nonlinearities using koopman analysis
     year: '2022'
   6Vd6J_UAAAAJ:qjMakFHDy7sC:
-    citations: 41
+    citations: 42
     title: Cooperative regenerative braking control for front-wheel-drive hybrid electric vehicle based on adaptive regenerative brake torque optimization using under-steer index
     year: '2014'
   6Vd6J_UAAAAJ:qxL8FJ1GzNcC:
@@ -254,7 +254,7 @@ papers:
     title: State-Constrained Optimal Solutions for Safe Eco-Approach and Departure at Signalized Intersections
     year: '2020'
   6Vd6J_UAAAAJ:r0BpntZqJG4C:
-    citations: 15
+    citations: 17
     title: Effect of adaptive cruise control on fuel consumption in real-world driving conditions
     year: '2024'
   6Vd6J_UAAAAJ:roLk4NBRz8UC:
