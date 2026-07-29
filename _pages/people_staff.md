@@ -32,7 +32,7 @@ profiles:
       
   - section: admin # prof,admin,researcher,postdoc,graduate,undergraduate,alumni
     align: right
-    image: Hee_Nam_Koo.jpg
+    image: Hee_Nam_Koo.JPG
     content: biography/example_staff.md
     image_circular: false # crops the image to make it circular
     more_info: >
