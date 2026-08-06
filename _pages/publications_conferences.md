@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Conferences
+title: Conference Proceedings Papers
 permalink: /publications/conferences/
-description: International and Domestic Conferences
+description: Papers Published in International and Domestic Conference Proceedings
 nav: false
 ---
 
