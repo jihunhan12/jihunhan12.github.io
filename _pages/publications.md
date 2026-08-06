@@ -11,6 +11,6 @@ nav_order: 4
 
 - [Journal Articles](/publications/journals/)
 - [Conference Proceedings Papers](/publications/conferences/) 
-- [Conference Presentations without Proceedings Papers](/publications/presentations/)
+- [Conference Presentations Without Proceedings Papers](/publications/presentations/)
 - [Patents](/publications/patents/)
 
