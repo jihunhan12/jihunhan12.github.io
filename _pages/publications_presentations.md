@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Presentations
+title: Conference Presentations without Proceedings Papers
 permalink: /publications/presentations/
-description: International and Domestic Presentations
+description: International and Domestic Conference Presentations (No Paper Published in Proceedings)
 nav: false
 ---
 
