@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Journals
+title: Journal Articles
 permalink: /publications/journals/
-description: International and Domestic Journals
+description: Papers Published in International and Domestic Journal Articles
 nav: false
 ---
 
