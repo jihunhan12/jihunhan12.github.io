@@ -18,8 +18,8 @@ schedule:
 Engineering Mechanics: Dynamics by Meriam, Kraige and Bolton, SI version, Ed 9, Wiley
 
 ## Grading
--Attendance/Quiz/Participation: 5%
--Homework sets: 30 %
--Midterm exam: 30 %	
--Final exam: 35 %
+- Attendance/Quiz/Participation: 5%
+- Homework sets: 30 %
+- Midterm exam: 30 %	
+- Final exam: 35 %
 
