@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-10'
 papers:
   6Vd6J_UAAAAJ:-f6ydRqryjwC:
     citations: 25
     title: 'Energy Impact of Connecting Multiple Signalized Intersections to Energy-Efficient Driving: Simulation and Experimental Results'
     year: '2023'
   6Vd6J_UAAAAJ:0EnyYjriUFMC:
-    citations: 85
+    citations: 84
     title: Synthesis of Predictive Equivalent Consumption Minimization Strategy for Hybrid Electric Vehicles Based on Closed-Form Solution of Optimal Equivalence Factor
     year: '2017'
   6Vd6J_UAAAAJ:2osOgNQ5qMEC:
@@ -46,7 +46,7 @@ papers:
     title: Assessing the Implications of Automated Merging Control in a Mixed and Heterogeneous Traffic Environment
     year: '2021'
   6Vd6J_UAAAAJ:9yKSN-GCB0IC:
-    citations: 189
+    citations: 190
     title: Optimal adaptation of equivalent factor of equivalent consumption minimization strategy for fuel cell hybrid electric vehicles under active state inequality constraints
     year: '2014'
   6Vd6J_UAAAAJ:BqipwSGYUEgC:
@@ -58,7 +58,7 @@ papers:
     title: 'Optimal Eco-Driving Control for Electric Vehicles: Energy Savings Analysis and Experimental Study'
     year: '2026'
   6Vd6J_UAAAAJ:HDshCWvjkbEC:
-    citations: 9
+    citations: 10
     title: An X-in-the-Loop (XIL) Testing Framework for Validation of Connected and Autonomous Vehicles
     year: '2023'
   6Vd6J_UAAAAJ:IWHjjKOFINEC:
@@ -90,7 +90,7 @@ papers:
     title: Leveraging Multiple Connected Traffic Light Signals in an Energy-Efficient Speed Planner
     year: '2020'
   6Vd6J_UAAAAJ:MXK_kJrjxJIC:
-    citations: 186
+    citations: 184
     title: Safe-and eco-driving control for connected and automated electric vehicles using analytical state-constrained optimal solution
     year: '2018'
   6Vd6J_UAAAAJ:NMxIlDl6LWMC:
@@ -98,7 +98,7 @@ papers:
     title: On-Track Validation of Full-Stack Agreement-Seeking Cooperative Driving Automation and Energy Saving Evaluation
     year: Unknown Year
   6Vd6J_UAAAAJ:QIV2ME_5wuYC:
-    citations: 25
+    citations: 24
     title: Vehicle-in-the-loop workflow for the evaluation of energy-efficient automated driving controls in real vehicles
     year: '2022'
   6Vd6J_UAAAAJ:R3hNpaxXUhUC:
@@ -130,7 +130,7 @@ papers:
     title: Method for determining a speed to be reached for a first vehicle preceded by a second vehicle, in particular for an autonomous vehicle
     year: '2022'
   6Vd6J_UAAAAJ:UeHWp8X0CEIC:
-    citations: 21
+    citations: 20
     title: A novel updating method of equivalent factor in ECMS for prolonging the lifetime of battery in fuel cell hybrid electric vehicle
     year: '2012'
   6Vd6J_UAAAAJ:UebtZRa9Y70C:
@@ -146,7 +146,7 @@ papers:
     title: "\uB9AC\uD2AC \uC774\uC628 \uBC30\uD130\uB9AC \uC218\uBA85\uC744 \uACE0\uB824\uD55C \uD558\uC774\uBE0C\uB9AC\uB4DC \uC5F0\uB8CC\uC804\uC9C0 \uC790\uB3D9\uCC28\uC758 \uCD5C\uC801 \uC5D0\uB108\uC9C0 \uAD00\uB9AC \uC804\uB7B5 \uBD84\uC11D"
     year: '2013'
   6Vd6J_UAAAAJ:Wp0gIr-vW9MC:
-    citations: 9
+    citations: 10
     title: Receding horizon reference governor for implementable and optimal powertrain-aware eco-driving
     year: '2020'
   6Vd6J_UAAAAJ:Y0pCki6q_DkC:
@@ -190,7 +190,7 @@ papers:
     title: Impact of hilly road profile on optimal energy management strategy for FCHEV with various battery sizes
     year: '2013'
   6Vd6J_UAAAAJ:dhFuZR0502QC:
-    citations: 2
+    citations: 1
     title: Automated Vehicle Fuel Efficiency Town Hall
     year: '2021'
   6Vd6J_UAAAAJ:eQOLeE2rZwMC:
@@ -198,7 +198,7 @@ papers:
     title: "\uD558\uC774\uBE0C\uB9AC\uB4DC \uC5F0\uB8CC \uC804\uC9C0 \uC790\uB3D9\uCC28\uC758 \uBC30\uD130\uB9AC \uCDA9\uC804\uB7C9 \uBCC0\uD654\uB7C9\uC744 \uACE0\uB824\uD55C \uAC00\uC0C1 \uC5F0\uBE44 \uD3C9\uAC00 \uBC29\uBC95 \uBD84\uC11D"
     year: '2012'
   6Vd6J_UAAAAJ:hC7cP41nSMkC:
-    citations: 56
+    citations: 57
     title: 'Energy-efficient driving in connected corridors via minimum principle control: Vehicle-in-the-loop experimental verification in mixed fleets'
     year: '2023'
   6Vd6J_UAAAAJ:hFOr9nPyWt4C:
@@ -222,11 +222,11 @@ papers:
     title: 'Processing and Analyzing Real-World Driving Data: Insights on Trips, Scenarios, and Human Driving Behaviors'
     year: '2025'
   6Vd6J_UAAAAJ:j3f4tGmQtD8C:
-    citations: 3
+    citations: 4
     title: "Analysis of control behavior in eco-driving speed optimization using Pontryagin\u2019s minimum principle"
     year: '2024'
   6Vd6J_UAAAAJ:kNdYIx-mwKoC:
-    citations: 191
+    citations: 190
     title: 'Fundamentals of energy efficient driving for combustion engine and electric vehicles: An optimal control perspective'
     year: '2019'
   6Vd6J_UAAAAJ:k_IJM867U9cC:
@@ -242,15 +242,15 @@ papers:
     title: 'The double-edged sword of cruise control: Balancing fuel efficiency across driver profiles'
     year: '2024'
   6Vd6J_UAAAAJ:qUcmZB5y_30C:
-    citations: 10
+    citations: 11
     title: Data-driven design of model predictive control for powertrain-aware eco-driving considering nonlinearities using koopman analysis
     year: '2022'
   6Vd6J_UAAAAJ:qjMakFHDy7sC:
-    citations: 42
+    citations: 43
     title: Cooperative regenerative braking control for front-wheel-drive hybrid electric vehicle based on adaptive regenerative brake torque optimization using under-steer index
     year: '2014'
   6Vd6J_UAAAAJ:qxL8FJ1GzNcC:
-    citations: 7
+    citations: 8
     title: State-Constrained Optimal Solutions for Safe Eco-Approach and Departure at Signalized Intersections
     year: '2020'
   6Vd6J_UAAAAJ:r0BpntZqJG4C:
@@ -266,7 +266,7 @@ papers:
     title: Impact of hilly road information on fuel economy of FCHEV based on parameterization of hilly roads
     year: '2014'
   6Vd6J_UAAAAJ:u5HHmVD_uO8C:
-    citations: 22
+    citations: 21
     title: Adaptive regenerative braking control in severe cornering for guaranteeing the vehicle stability of fuel cell hybrid electric vehicle
     year: '2011'
   6Vd6J_UAAAAJ:zYLM7Y9cAGgC:
