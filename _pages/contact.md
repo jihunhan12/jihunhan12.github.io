@@ -13,7 +13,7 @@ nav_order: 9
 
 We welcome inquiries from motivated students who are interested in joining the CUVIC Lab. Prospective undergraduate students, graduate students, and visiting researchers are encouraged to review our research areas and recent publications before contacting us.
 
-Our work spans theory, algorithms, and real-world implementation, and we welcome students across that spectrum, including those who enjoy building and experimenting, and want to turn their ideas into working systems!
+Our work spans theory, algorithms, and real-world implementation, and we welcome students across that spectrum, including those who enjoy building and experimenting, and want to turn their ideas into working systems.
 
 Please include a brief introduction, your academic background, and your research interests. In addition, please attach the following materials:
 
