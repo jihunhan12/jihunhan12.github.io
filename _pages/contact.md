@@ -9,6 +9,8 @@ nav_order: 9
 
 > Start your journey with CUVIC!
 
+{% include figure.liquid loading="eager" path="assets/img/prospective_1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 ### Information for Prospective Students
 
 We welcome inquiries from motivated students who are interested in joining the CUVIC Lab. Prospective undergraduate students, graduate students, and visiting researchers are encouraged to review our research areas and recent publications before contacting us.
