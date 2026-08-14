@@ -67,6 +67,11 @@ ninja.data = [{
           description: "Oct, 2018 - June, 2026, Sponsored by DOE (@ANL)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-fuel-optimal-cooperative-merging",
+          title: 'Fuel-Optimal Cooperative Merging',
+          description: "Oct, 2017 - Sep, 2018, Sponsored by DOE (@ORNL)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{id: "teachings-dynamics",
           title: 'Dynamics',
           description: "Based on Newton&#39;s law, we learn the relationship between force and motion, work, and energy, and impulse and momentum. Student will develop quantitative analysis methods through practical problems. To describe motion, various kinematic systems will be explored.",
