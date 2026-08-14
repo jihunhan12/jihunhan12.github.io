@@ -62,9 +62,9 @@ ninja.data = [{
           description: "Jul 1, 2026 - Dec 31, 2029, Sponsored by KAIST (정착연구과제)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-cav-eco-driving-data-to-deployment",
+          title: 'CAV Eco-Driving: Data to Deployment',
+          description: "Oct, 2018 - June, 2026, Sponsored by DOE (@ANL)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "teachings-dynamics",
