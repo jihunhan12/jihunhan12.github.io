@@ -66,7 +66,7 @@ ninja.data = [{
           title: '',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/project_2/";
+              window.location.href = "/projects/2_project/";
             },},{id: "teachings-dynamics",
           title: 'Dynamics',
           description: "Based on Newton&#39;s law, we learn the relationship between force and motion, work, and energy, and impulse and momentum. Student will develop quantitative analysis methods through practical problems. To describe motion, various kinematic systems will be explored.",
