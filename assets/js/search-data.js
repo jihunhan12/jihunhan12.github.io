@@ -72,6 +72,11 @@ ninja.data = [{
           description: "Oct, 2017 - Sep, 2018, Sponsored by DOE (@ORNL)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-analytical-eco-driving-control",
+          title: 'Analytical Eco-Driving Control',
+          description: "May, 2016 - Sep, 2017, Sponsored by IFPEN (@IFPEN)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "teachings-dynamics",
           title: 'Dynamics',
           description: "Based on Newton&#39;s law, we learn the relationship between force and motion, work, and energy, and impulse and momentum. Student will develop quantitative analysis methods through practical problems. To describe motion, various kinematic systems will be explored.",
