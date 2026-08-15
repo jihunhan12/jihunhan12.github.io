@@ -8,5 +8,8 @@ category: ongoing
 related_publications: true
 ---
 
-This research project aims to develop a data-simulation-validation framework for intelligent vehicle and mobility control studies at KAIST. By applying the proposed framework to vehicle-infrastructure cooperative perception and control as a representative use case, the project seeks to demonstrate its feasibility, scalability, and potential for broader applications.
+As intelligent vehicle and mobility systems become increasingly complex, developing them requires an integrated research framework that connects data collection and generation, simulation, algorithm development, and real-world validation within a single loop. X-in-the-Loop (XIL) methodologies sit at the center of such a framework, since they allow vehicle perception and control algorithms to be validated systematically, repeatably, safely across diverse operating conditions and development stages. 
+
+This project develops a unified data-simulation-validation framework for intelligent vehicle and mobility control research at KAIST. Vehicle-infrastructure cooperative perception and control serves as the representative use case, through which  the framework is tested for feasibility and scalability. Validation runs on both small-scale vehicle platforms and full scale vehicles in real-world environments, so that an algorithm can move from simulation to a real road without leaving the framework. The aim is to close the gap between simulation-based development and real-world deployment, and to make research on future intelligent mobility systems both reliable and efficient. 
+
 
