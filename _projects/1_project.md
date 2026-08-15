@@ -2,7 +2,7 @@
 layout: page
 title: Intelligent Vehicle & Mobility Validation Framework
 description: Jul 1, 2026 - Dec 31, 2029, Sponsored by KAIST (정착연구과제)
-img: assets/img/12.jpg
+img: assets/img/project_img_1.png
 importance: 1
 category: ongoing
 related_publications: false
