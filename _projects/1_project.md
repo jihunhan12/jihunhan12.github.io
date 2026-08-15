@@ -5,7 +5,7 @@ description: Jul 1, 2026 - Dec 31, 2029, Sponsored by KAIST (정착연구과제)
 img: assets/img/12.jpg
 importance: 1
 category: ongoing
-related_publications: true
+related_publications: false
 ---
 
 As intelligent vehicle and mobility systems become increasingly complex, developing them requires an integrated research framework that connects data collection and generation, simulation, algorithm development, and real-world validation within a single loop. X-in-the-Loop (XIL) methodologies sit at the center of such a framework, since they allow vehicle perception and control algorithms to be validated systematically, repeatably, safely across diverse operating conditions and development stages. 
