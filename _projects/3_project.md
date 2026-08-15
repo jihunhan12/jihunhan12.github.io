@@ -2,7 +2,7 @@
 layout: page
 title: "Fuel-Optimal Cooperative Merging"
 description: Oct, 2017 - Sep, 2018, Sponsored by DOE (@ORNL)
-img: assets/img/12.jpg
+img: assets/img/project_img_3.png
 importance: 1
 category: completed
 related_publications: false
