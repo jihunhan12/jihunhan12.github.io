@@ -2,7 +2,7 @@
 layout: page
 title: "Analytical Eco-Driving Control"
 description: May, 2016 - Sep, 2017, Sponsored by IFPEN (@IFPEN)
-img: assets/img/12.jpg
+img: assets/img/project_img_4.png
 importance: 1
 category: completed
 related_publications: false
