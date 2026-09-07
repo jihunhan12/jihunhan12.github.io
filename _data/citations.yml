@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-09-07'
 papers:
   6Vd6J_UAAAAJ:-f6ydRqryjwC:
     citations: 25
@@ -14,7 +14,7 @@ papers:
     title: Cooperative regenerative braking control strategy considering nonlinear tire characteristic in front-wheel-drive hybrid electric vehicle
     year: '2011'
   6Vd6J_UAAAAJ:3fE2CSJIrl8C:
-    citations: 8
+    citations: 9
     title: Impact of Model Simplification on Optimal Control of Combustion Engine and Electric Vehicles Considering Control Input Constraints
     year: '2018'
   6Vd6J_UAAAAJ:4DMP91E08xMC:
@@ -26,7 +26,7 @@ papers:
     title: Validation of Energy Saving From Cooperative Driving Automation via Vehicle-in-the-Loop Tests
     year: '2025'
   6Vd6J_UAAAAJ:4TOpqqG69KYC:
-    citations: 27
+    citations: 28
     title: Closed-form solutions for a real-time energy-optimal and collision-free speed planner with limited information
     year: '2020'
   6Vd6J_UAAAAJ:5nxA0vEk-isC:
@@ -72,7 +72,7 @@ papers:
   6Vd6J_UAAAAJ:KlAtU1dfN6UC:
     citations: 9
     title: Method and system for controlling power of fuel cell vehicle
-    year: '2016'
+    year: '2014'
   6Vd6J_UAAAAJ:L8Ckcad2t8MC:
     citations: 6
     title: Analytical Anticipative Optimal Drivability Car-Following Model *
@@ -86,17 +86,21 @@ papers:
     title: Advancing Connected Vehicle Capabilities with Scalable and Flexible Anything-In-The-Loop Testing Framework
     year: '2025'
   6Vd6J_UAAAAJ:M3ejUd6NZC8C:
-    citations: 49
-    title: Leveraging Multiple Connected Traffic Light Signals in an Energy-Efficient Speed Planner
-    year: '2020'
+    citations: 50
+    title: Leveraging multiple connected traffic light signals in an energy-efficient speed planner
+    year: '2021'
   6Vd6J_UAAAAJ:MXK_kJrjxJIC:
-    citations: 184
+    citations: 185
     title: Safe-and eco-driving control for connected and automated electric vehicles using analytical state-constrained optimal solution
     year: '2018'
   6Vd6J_UAAAAJ:NMxIlDl6LWMC:
     citations: 0
     title: On-Track Validation of Full-Stack Agreement-Seeking Cooperative Driving Automation and Energy Saving Evaluation
     year: Unknown Year
+  6Vd6J_UAAAAJ:O3NaXMp0MMsC:
+    citations: 0
+    title: Route-Based Multi-Vehicle Simulation Framework for Energy-Efficiency Evaluation of Class-8 Heavy-Duty Trucks
+    year: '2026'
   6Vd6J_UAAAAJ:QIV2ME_5wuYC:
     citations: 24
     title: Vehicle-in-the-loop workflow for the evaluation of energy-efficient automated driving controls in real vehicles
@@ -198,7 +202,7 @@ papers:
     title: "\uD558\uC774\uBE0C\uB9AC\uB4DC \uC5F0\uB8CC \uC804\uC9C0 \uC790\uB3D9\uCC28\uC758 \uBC30\uD130\uB9AC \uCDA9\uC804\uB7C9 \uBCC0\uD654\uB7C9\uC744 \uACE0\uB824\uD55C \uAC00\uC0C1 \uC5F0\uBE44 \uD3C9\uAC00 \uBC29\uBC95 \uBD84\uC11D"
     year: '2012'
   6Vd6J_UAAAAJ:hC7cP41nSMkC:
-    citations: 57
+    citations: 58
     title: 'Energy-efficient driving in connected corridors via minimum principle control: Vehicle-in-the-loop experimental verification in mixed fleets'
     year: '2023'
   6Vd6J_UAAAAJ:hFOr9nPyWt4C:
@@ -226,27 +230,31 @@ papers:
     title: "Analysis of control behavior in eco-driving speed optimization using Pontryagin\u2019s minimum principle"
     year: '2024'
   6Vd6J_UAAAAJ:kNdYIx-mwKoC:
-    citations: 190
+    citations: 191
     title: 'Fundamentals of energy efficient driving for combustion engine and electric vehicles: An optimal control perspective'
     year: '2019'
   6Vd6J_UAAAAJ:k_IJM867U9cC:
-    citations: 2
+    citations: 3
     title: 'Energy-Efficient Automated Driving for Everyday Maneuvers: Fundamentals to Experimentation'
     year: '2025'
   6Vd6J_UAAAAJ:mB3voiENLucC:
-    citations: 12
+    citations: 13
     title: Fast analytical solver for fuel-optimal speed trajectory of connected and/or automated vehicles
     year: '2023'
   6Vd6J_UAAAAJ:maZDTaKrznsC:
     citations: 2
     title: 'The double-edged sword of cruise control: Balancing fuel efficiency across driver profiles'
     year: '2024'
+  6Vd6J_UAAAAJ:ns9cj8rnVeAC:
+    citations: 0
+    title: Modeling and Experimental Validations of Human Driver Controls under Advisory Speed Guidance in Connected Mixed Traffic
+    year: '2026'
   6Vd6J_UAAAAJ:qUcmZB5y_30C:
     citations: 11
     title: Data-driven design of model predictive control for powertrain-aware eco-driving considering nonlinearities using koopman analysis
     year: '2022'
   6Vd6J_UAAAAJ:qjMakFHDy7sC:
-    citations: 43
+    citations: 44
     title: Cooperative regenerative braking control for front-wheel-drive hybrid electric vehicle based on adaptive regenerative brake torque optimization using under-steer index
     year: '2014'
   6Vd6J_UAAAAJ:qxL8FJ1GzNcC:
@@ -254,7 +262,7 @@ papers:
     title: State-Constrained Optimal Solutions for Safe Eco-Approach and Departure at Signalized Intersections
     year: '2020'
   6Vd6J_UAAAAJ:r0BpntZqJG4C:
-    citations: 17
+    citations: 18
     title: Effect of adaptive cruise control on fuel consumption in real-world driving conditions
     year: '2024'
   6Vd6J_UAAAAJ:roLk4NBRz8UC:
