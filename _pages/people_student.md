@@ -32,12 +32,10 @@ profiles:
 
   - section: undergraduate
     align: right
-    image: undergraduate1.png
-    content: # biography/example_intern.md
+    image: Seohee_Lee.jpg
+    content: # biography/SeoheeLee.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      E-mail: XXXX@kaist.ac.kr <br>
-      Phone: XXX-XXX-XXXX <br>
-      Location: N7-X XXXX <br>
+      E-mail: seoheelee@kaist.ac.kr <br>
       <br>
 ---
