@@ -33,7 +33,7 @@ profiles:
   - section: undergraduate
     align: right
     image: Seohee_Lee.jpg
-    content: # biography/SeoheeLee.md
+    content: biography/SeoheeLee.md
     image_circular: false # crops the image to make it circular
     more_info: >
       E-mail: seoheelee@kaist.ac.kr <br>
