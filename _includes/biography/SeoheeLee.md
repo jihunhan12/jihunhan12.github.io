@@ -1,5 +1,5 @@
-#### **Name**, Intern
+#### **Seohee Lee (이서희)**, Intern
 
 #### Biography
 
-[Name] is an undergraduate student in the [Department] at [University]. His/Her current research focuses on [Specific Research Area]. He/She is particularly interested in ~.
+Seohee Lee is an undergraduate student in the Mechanical Engineering Department at KAIST. His/Her current research focuses on [Specific Research Area]. He/She is particularly interested in ~.
