@@ -1,4 +1,4 @@
-#### **Seohee Lee (이서희)**, Intern
+#### **Seohee Lee (이서희)**, Undergraduate Researcher
 
 #### Biography
 
