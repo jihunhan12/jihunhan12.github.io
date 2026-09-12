@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Seohee Lee and Minjune Kim joined the CUVIC Lab as undergraduate researchers, working together on scaled autonomous racing platforms. Welcome!
+Seohee Lee and Minjun Kim joined the CUVIC Lab as undergraduate researchers, working together on scaled autonomous racing platforms. Welcome!
