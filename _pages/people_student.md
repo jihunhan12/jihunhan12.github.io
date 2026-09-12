@@ -43,7 +43,7 @@ profiles:
       
   - section: undergraduate
     align: right
-    image: Minjun_Kim.jpg
+    image: Minjun_Kim.JPG
     content: biography/MinjunKim.md
     image_circular: false # crops the image to make it circular
     more_info: >
