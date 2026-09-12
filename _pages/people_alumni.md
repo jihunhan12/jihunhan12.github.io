@@ -7,13 +7,14 @@ description: Previous Members and Their Current Affiliations
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - section: alumni
-    align: right
-    image: member1.png
-    content: # biography/example_alumni.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      E-mail: XXXX@xxx.xx.xx <br>
-      <br>      
+  
+  # - section: alumni
+  #  align: right
+  #  image: member1.png
+  #  content: # biography/example_alumni.md
+  #  image_circular: false # crops the image to make it circular
+  #  more_info: >
+  #    E-mail: XXXX@xxx.xx.xx <br>
+  #    <br>      
 
 ---
