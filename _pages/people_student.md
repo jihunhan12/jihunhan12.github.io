@@ -8,6 +8,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   
+  <!--
   - section: graduate
     align: right
     image: phd1.png
@@ -18,7 +19,6 @@ profiles:
       Phone: XXX-XXX-XXXX <br>
       Location: N7-X XXXX <br>
       <br>
-
   - section: graduate
     align: right
     image: master1.png
@@ -29,6 +29,7 @@ profiles:
       Phone: XXX-XXX-XXXX <br>
       Location: N7-X XXXX <br>
       <br>
+-->
 
   - section: undergraduate
     align: right
@@ -37,5 +38,14 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       E-mail: seoheelee@kaist.ac.kr <br>
+      <br>
+      
+  - section: undergraduate
+    align: right
+    image: Minjun_Kim.jpg
+    content: biography/MinjunKim.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      E-mail: flyingelephant@kaist.ac.kr <br>
       <br>
 ---
