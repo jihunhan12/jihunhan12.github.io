@@ -39,7 +39,7 @@ Please contact Prof. Jihun Han at [jihun.han@kaist.ac.kr](mailto:jihun.han@kaist
 - `Prospective Student Application - [Your Name] - [Program/Position of Interest]`
 - `예비 학생 지원 - [이름] - [관심 프로그램/포지션]`
 
-Either way, looking through the the [research areas](/research/) and recent [Publications](/publications/) first will make the conversation more productive.
+Either way, looking through the [research areas](/research/) and recent [publications](/publications/) first will make the conversation more productive.
 
 ---
 ### Collaborations and Other Inquiries
